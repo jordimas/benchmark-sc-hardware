@@ -1,0 +1,5000 @@
+Accepta la revisió
+Afegeix
+Ajusta a
+Alineació
+Tot
+Anotacions
+Aplica
+De
+Verificació ortogràfica automàtica
+Ajusta la taula automàticament
+Desa automàticament aquesta plantilla
+Anterior
+Negreta
+Contorns i ombrejat
+Inferior
+Salt
+Cel·la
+Cel·les
+Centre
+Canvia-ho
+Tanca
+Columna
+Salt de columna
+Columnes
+Compara els documents
+Copia
+Crea i modifica els estils
+Plantilla de preferències actual
+Suprimeix
+Suprimeix l'anotació
+Elimina l'hiperenllaç
+Diccionari
+Marcador de direcció
+Document
+Historial del document
+Documents
+Sense guions de separació
+Edita
+Edita l'anotació
+Edita l'hiperenllaç
+Nota final
+Pàgina parell
+Camp
+Camps
+Fitxer
+Extensió del fitxer
+Cerca
+Cerca el següent
+Tipus de lletra
+Peu
+Formatació
+Vés a
+Té encapçalament
+Capçalera i peu de pàgina
+Capçalera/Peus de pàgina
+Capçalera
+Alçada
+Ajuda
+Text ocult
+Ressalta els mots amb errors
+Hiperenllaç
+Ignora-ho
+Ignora-les totes
+Imatge
+Importa els estils
+Al navegador web
+Hereta l'etiqueta
+Insereix
+Cursiva
+Salta a l'anotació
+Salta a l'hiperenllaç
+Justifica
+Mantingues les línies juntes
+MED
+Horitzontal
+Idioma
+Esquerra
+Text d'esquerra a dreta
+Bloca la disposició
+Combinació de correu
+Camp de combinació de correu
+Conserva un historial complet
+Marca les revisions en escriure
+Majúscules i minúscules han de concordar
+Fusiona les cel·les
+Més documents
+Nom
+Nou
+Finestra nova
+Nou partint d'una plantilla
+Pàgina següent
+Disposició normal
+Número
+Tipus de numeració
+Pàgina senar
+Obre
+Obre un fitxer
+Sobreratllat
+Amplada de la pàgina
+Salt de pàgina
+Numeració de pàgines
+Paràgraf
+Enganxa
+Imatge
+Extensions
+Vertical
+Imprimeix
+Disposició d'impressió
+Neteja l'historial
+Surt
+MDE
+Refés
+Rebutja la revisió
+Reemplaça
+Restaura
+Restaura la disposició per defecte
+Dreta
+Text de dreta a esquerra
+Fila
+Regle
+Desa
+Desa la imatge com a
+Desa la pàgina web
+Cerca ajuda
+Selecciona
+Selecciona la revisió
+Mostra l'historial
+Mostra la Barra d'estat
+Mostra les anotacions
+Especial
+Ortografia
+Inicia a
+Barra d'estat
+Subíndex
+Elimina els números de línia
+Capçalera de tabulació
+Taula
+Tabulacions
+Barres d'eines
+Eines
+Superior
+Tipus
+Subratllat
+Desfés
+Unitats
+Visualitza
+Disposició de web
+Tota la pàgina
+Tota la paraula
+Control de línies vídues i orfes
+Amplada
+Nombre de paraules
+Ampliació
+(Totes les revisions visibles)
+(no hi ha suggeriments)
+(cap)
+1 Columna
+Espaiat 15
+15 línies
+Espaiat 15
+1/3 A4
+1/3 A5
+1/4 A3
+1/4 A4
+1/8 A4
+12 pt abans
+2 Columnes
+3 Columnes
+<< Anterior
+Suggereix sempre correccions
+A0
+A1
+A10
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+A9
+AM/PM
+L'AbiWord ha acabat la comprovació de la selecció.
+L'AbiWord ha acabat la cerca en el document.
+Quant al GNOME Office
+Quant al projecte GNOME Office
+Accepta el canvi suggerit
+Afegeix una columna a aquesta taula després de la columna actual
+Afegeix una fila a aquesta taula després de la fila actual
+Afegeix contorns i ombrejat a la selecció
+Afegeix una columna després
+Afegeix o modifica les vinyetes i la numeració dels paràgrafs seleccionats
+Afegeix una fila després
+Afegeix aquesta paraula al diccionari personalitzat
+Afegeix a la plantilla
+Després
+Alineació
+Permet altres colors de pantalla que el blanc
+Anotacions
+Aplicació
+Inici de l'aplicació
+Aplica al text seleccionat la formatació del paràgraf que s'ha copiat anteriorment
+Aplica a la llista actual
+Aplica a
+Llista aràbiga
+Esteu segur que no voleu conservar un registre complet de l'historial? Si seguiu endavant no podreu recuperar versions anteriors d'aquest document.
+Com a mínim
+Adjunta a la llista anterior
+Autor
+Desa automàticament
+Desa automàticament cada
+Reemplaça automàticament els mots amb errors
+Comportament de l'ajustament automàtic
+Comprovació gramatical automàtica
+Mida de columna automàtica
+Carrega automàticament totes les extensions trobades
+Comprova automàticament l'ortografia
+Modifica automàticament
+Combinació automàtica
+Camps disponibles
+Formats disponibles
+Estils disponibles
+De
+B0
+B1
+B10
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+Fons
+Color del fons
+Barra
+Tabulació en barra
+Basat en
+Línia inferior
+Marcador
+Color del contorn
+Contorns
+Llista de caixes
+Identificador del muntatge.Opcions del muntatge
+Objectiu del muntatge
+Vinyeta
+Llista de vinyetes
+Vinyetes
+Vinyetes i numeració
+Estil del botó
+Canvia entre majúscules i minúscules
+Copia la ubicació de l'hiperenllaç
+Crèdits
+C0
+C1
+C10
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+No es pot inserir un salt dins d'una taula
+No es pot inserir un salt dins d'un quadre de text
+No es pot eliminar aquest estil
+No es pot modificar un estil integrat
+No s'ha pogut iniciar el treball d'impressió
+Categoria
+Tabulació al centre
+Alineació central
+Centra el paràgraf
+Centrat
+Canvia-ho a
+Canvia-ho tot
+Canvia el color de fons
+Canvia el color de ressaltament
+Canvia l'estil
+Canvia el color del text
+Canvia les propietats de direcció del text
+Canvia la direcció dominant del paràgraf
+Canvia el text seleccionat de minúscules a majúscules o a l'inrevés
+Canvia el tipus de lletra del text seleccionat
+Canvia el format del paràgraf seleccionat
+Canvia l'idioma del text seleccionat
+Canvia el nombre de columnes
+Canvia les opcions d'impressió
+Canvia les propietats del quadre de text
+Canvia a l'ortografia suggerida
+Canvia el fons de la pàgina del document
+Canvia el color de la pàgina del document
+Caràcter
+Nombre de caràcters
+Nombre de caràcters (sense espais)
+Previsualització del caràcter
+Caràcters (sense espais)
+Caràcters (amb espais)
+Comprova l'ortografia
+Comprova la gramàtica mentre escric
+Comprova si hi ha actualitzacions
+Comprova en línia si hi ha versions noves de l'Abiword
+Comprova l'ortografia mentre escric
+Comprova si el document té errades ortogràfiques
+Trieu
+Escolliu el color de fons
+Escolliu el color de fons per a l'Abiword
+Escolliu la revisió que voleu visualitzar
+Elimina
+Elimina-ho tot
+Suprimeix el color de fons
+Suprimeix el color del ressaltat
+Voleu tancar totes les finestres i sortir?
+Tanca totes les finestres de l'aplicació i surt
+Tanca el document
+Color
+Columnes a l'esquerra
+Columnes a la dreta
+Comentari
+Comentari per a associar amb la revisió
+Compara el document actiu amb un altre document
+Data de compilació
+Hora de compilació
+Continu
+Continguts
+Col·laborador(s)
+Converteix el text seleccionat en una taula
+Converteix la taula en text
+Converteix el text en una taula
+Converteix de taula a text
+Copia l'objecte incrustat
+Copia la imatge
+Copia l'objecte
+Copia el quadre de text
+Copia el quadre de text al porta-retalls
+Copia el quadre de text al porta-retalls i elimina'l
+Copia la selecció i posa-la al porta-retalls
+Compta les paraules que hi ha al document
+Cobertura
+Crea un fax
+Crea un document nou en blanc
+Crea un document nou
+Crea un document nou a partir d'una plantilla
+Crea un document nou usant una plantilla
+Crea un document buit
+Crea a partir de la selecció
+Retalla
+Data actual
+Tipus de lletra actual
+Etiqueta de la llista actual
+Tipus de llista actual
+La selecció actual és buida
+Configuració actual
+Hora actual
+Cursor intermitent
+Diccionari personalitzat
+Data/hora personalitzable
+Llista personalitzada
+Retalla l'objecte incrustat
+Retalla la imatge
+Retalla l'objecte
+Retalla el quadre de text
+Retalla la selecció i posa-la al porta-retalls
+Direccional
+Llista de punts
+Data
+Data i hora
+Número de dia de l'any
+Predeterminats
+Decimal
+Tabulació decimal
+Redueix el sagnat
+Representació de la data per defecte
+Mida per defecte de la pàgina
+Distància per defecte entre tabuladors
+Direcció del text de dreta a esquerra (per defecte)
+Definiu les propietats principals
+Defineix o aplica un estil a la selecció
+Suprimeix les cel·les
+Suprimeix la columna
+Suprimeix l'objecte incrustat
+Suprimeix la imatge
+Suprimeix l'objecte
+Suprimeix la fila
+Suprimeix la taula
+Suprimeix el quadre de text
+Suprimeix la columna
+Suprimeix la fila
+Suprimeix la selecció
+Suprimeix aquesta columna de la seva taula
+Suprimeix aquesta fila de la seva taula
+Descripció
+Llista de diamants
+Diccionaris
+Peu de pàgina diferent en pàgines encarades
+Peu de pàgina diferent a la primera pàgina
+Peu de pàgina diferent a l'última pàgina
+Capçalera diferent en pàgines encarades
+Capçalera diferent a la primera pàgina
+Capçalera diferent a l'última pàgina
+Inhabilita totes les ordres de formatació excepte els estils
+Mostra els crèdits
+Mostra el contingut de l'ajuda
+Visualitza els caràcters no imprimibles
+Mostra informació del programa versió i copyright
+Mostra l'estil
+Voleu reemplaçar les paraules ignorades de tots els documents?
+Voleu reemplaçar les paraules ignorades del document actual?
+Propietats del document
+No reiniciïs
+Doble
+Espaiat doble
+Espaiat doble
+Edita l'anotació
+Edita l'equació
+Edita el peu de pàgina
+Edita la capçalera
+Edita l'equació Latex
+Edita el text de la part superior o inferior de cada pàgina
+Edita el peu de pàgina de la pàgina actual
+Edita la capçalera de la pàgina actual
+Incrustat
+Habilita les eines de formatatge
+Habilita el desplaçament suau
+Habilita les cometes intel·ligents
+Àncora de la nota final
+Referència de la nota final
+Estil de la nota final
+Notes final
+Equació
+S'ha produït un error en calcular el valor!
+Executa una seqüència
+Exactament
+Exemple
+Executa seqüències d'ajuda
+Executa una seqüència
+Revisions existents
+Extra
+Barra d'eines extra
+Pantalla completa
+Cerca
+Nom del camp
+Nom del fitxer
+Omple l'estil
+Cerca la revisió següent
+Cerca la revisió anterior
+Cerca la següent revisió visible del document
+Cerca l'anterior revisió visible del document
+Cerca el text indicat
+Primera línia
+Mida de columna fixa
+Desplega sota del nivell 1
+Desplega sota del nivell 2
+Desplega sota del nivell 3
+Desplega sota del nivell 4
+paràgraf següent paràgraf següent paràgraf següent paràgraf següent paràgraf següent paràgraf següent paràgraf següent
+Elecció del tipus de lletra
+Mida del tipus de lletra
+Elecció del tipus de lletra
+Color del tipus de lletra
+Nota al peu
+Propietats del peu de pàgina
+Àncora de nota al peu
+Referència de nota al peu
+Estil de notes al peu
+Notes al peu
+Notes al peu i notes finals
+Imposa la direcció del text d'EAD
+Imposa la direcció del text de DAE
+Imposa la direcció del text d'esquerra a dreta
+Imposa direcció del text de dreta a esquerra
+Imposa el text d'EAD
+Imposa el text de DAE
+Formata l'objecte incrustat
+Formata les notes al peu i les notes finals
+Formata la capçalera/els peus de pàgina
+Formata l'objecte
+Formata el Painter
+Formata la taula
+Formata l'índex
+Formata el quadre de text
+Barra d'eines de format
+Formata aquesta imatge
+Formata el document usant els estils
+Des del LaTeX
+General
+Vés a
+Té etiqueta
+Text d'encapçalament
+Llista de mans
+Suspesa
+Propietats de la capçalera
+Estils d'encapçalament
+Estil d'encapçalament
+Llista de cors
+Llista hebrea
+Continguts de l'ajuda
+Introducció a l'ajuda
+Amaga
+Amaga els errors d'ortografia
+Oculta sota els nivells de la llista
+Ressalta
+Sagnat
+Icones
+Ignora les paraules
+Ignora totes les aparicions d'aquesta paraula al document
+Paraules ignorades
+Imatge per al fons
+Llista d'implicacions
+Importa les definicions d'estil d'un document
+En ús
+La contrasenya no és correcta
+Augmenta el sagnat
+Sagnat
+Sagnat i espaiat
+Majúscules inicials
+Valor inicial de la nota final
+Valor inicial de la nota al peu
+Estil de cites interior (única)
+Insereix columnes
+Insereix files
+Insereix una taula
+Insereix un marcador
+Insereix un salt
+Insereix les cel·les
+Insereix el contingut del porta-retalls
+Insereix data i hora
+Insereix una equació
+Insereix una equació d'una expressió LaTeX
+Insereix camp
+Insereix hiperenllaç
+Insereix una imatge
+Insereix camp de combinació de correu
+Insereix MathML des d'un fitxer
+Insereix al document el marcador de direcció Unicode
+Insereix un peu de pàgina
+Insereix una capçalera
+Insereix un índex basant-se en els encapçalaments
+Insereix un quadre de text
+Insereix una adreça d'interès al document
+Insereix un camp calculat
+Insereix una columna a l'esquerra
+Insereix una columna a la dreta
+Insereix una nota al peu
+Insereix un hiperenllaç al document
+Insereix un camp de combinació de correu
+Insereix una nova taula al document
+Insereix un salt de pàgina de columna o de secció
+Insereix una fila a sobre
+Insereix una fila a sota
+Insereix un símbol o un altre caràcter especial
+Insereix una anotació
+Insereix un número de pàgina actualitzat automàticament
+Insereix una nota final
+Insereix una imatge existent d'un altre fitxer
+Insereix una imatge en el document
+Insereix un marcador
+Insereix un fitxer d'imatges
+Insereix un hiperenllaç
+Insereix un marcador de direcció esquerra a dreta (MED)
+Insereix un marcador de direcció dreta a esquerra (MDE)
+Converteix el text seleccionat en una anotació nova
+Insereix un símbol
+Insereix una taula
+Insereix la suma d'una columna de taula
+Insereix la suma d'una fila de taula
+Insereix el contingut d'un altre fitxer
+Insereix la data i/o hora
+Insereix el contingut del porta-retalls sense format
+Marques de disposició invisibles
+Justificat
+Justifica el paràgraf
+Justifica el paràgraf
+Mantingues els paràgrafs junts
+Test de Kevins
+Paraules clau
+Equació LaTeX
+Alineació de l'etiqueta
+Definicions de l'etiqueta
+Paràmetres d'idioma
+Idioma(es)
+Disposició
+Líder
+Tabulació a l'esquerra
+Alineació esquerra
+Alinea el paràgraf a l'esquerra
+Nivell 1
+Nivell 2
+Nivell 3
+Nivell 4
+Delimitador de nivell
+Nivell
+Interlineat
+Comptador de línies
+Línia a sobre la selecció (commuta)
+Salts de línia i de pàgina
+Línia a sota la selecció (commuta)
+Línia al mig
+Línies
+Etiqueta per a la llista
+Propietats de la llista
+Llista d'estils
+Bloca la disposició de les barres d'eines actuals
+Llista en minúscules
+Llista romana en minúscules
+Posa la selecció en negreta (commuta)
+Posa la selecció en cursiva (commuta)
+Converteix la selecció en subíndex (commuta)
+Converteix la selecció en superíndex (commuta)
+Gestiona les anotacions en el document
+Gestiona les extensions
+Marge
+Marca les revisions
+Marca els canvis en teclejar
+Test Martins
+Menú
+Fusiona a dalt
+Fusiona a sota
+Fusiona a l'esquerra
+Fusiona a la dreta
+Fusiona a dalt
+Fusiona un altre document amb el document actiu usant les marques de revisió
+Fusiona a baix
+Fusiona les cel·les
+Fusiona a l'esquerra
+Fusiona a la dreta
+Fusiona a dalt
+Fusiona amb la cel·la de sota
+Fusiona amb la cel·la esquerra
+Fusiona amb la cel·la dreta
+Hora militar
+Estils diversos
+Modifica
+Mes Dia Any
+Mou el punt d'inserció a una ubicació determinada
+Mes Dia Any
+Múltiple
+Anotació nova
+Document nou
+Llista d'etiqueta nova
+Estil nou
+Següent >>
+Cap fitxer
+Sense desplegament
+No s'ha trobat cap seqüència
+Cap
+Cap abans
+Vista normal
+No és al diccionari
+Estils de nota
+Nombre de pàgines
+Nombre de columnes
+Nombre de files
+Numerada
+Llista numerada
+Numeració
+Números
+Una
+Obre la còpia
+Obre una plantilla
+Obre un document fent-ne una còpia
+Obre un document usat recentment
+Obre un document existent
+Obre una altra finestra per al document
+Obre aquest document
+Altres
+Sobreratlla la selecció (commuta)
+Propietats
+Neteja les revisions
+Enganxa sense format
+Pàgina
+Salt de pàgina anterior
+Fons de pàgina
+Color de la pàgina
+Imatge de la pàgina
+Números de pàgina
+Número de pàgina
+Propietats de número de pàgina
+Configuració de la pàgina
+Pàgines
+Paginació
+Mida del paper
+Comptador de paràgrafs
+Direcció del paràgraf
+Previsualització del paràgraf
+Paràgrafs
+Cal una contrasenya és un document xifrat
+Permisos
+Taula de peces
+Situa al final del document
+Situa al final de la secció
+Posiciona
+Posiciona a la columna
+Posiciona a la pàgina
+Posiciona al paràgraf
+Preferències
+Plantilla de preferència
+Previsualització
+Previsualitza el document com a pàgina web
+Previsualitza el document abans d'imprimir-lo
+Paràgraf anterior paràgraf anterior paràgraf anterior paràgraf anterior paràgraf anterior paràgraf anterior paràgraf anterior paràgraf anterior
+Imprimeix directament
+Previsualitza la impressió
+Imprimeix tot el document o una part
+Imprimeix el document
+Imprimeix utilitzant el programa de control PS intern
+S'està imprimint el document
+Editor
+Document DAE
+Paràgraf DAE
+Secció DAE
+Reemplaça amb
+Cerca inversa
+Inverteix
+Fitxers recents
+Refés l'edició
+Refés l'edició desfeta anteriorment
+Redueix o amplia la visualització del document
+Relació
+Elimina
+Elimina el peu de pàgina
+Elimina la capçalera
+Elimina la fila com a capçalera
+Elimina la fila com a capçalera de la pàgina
+Elimina del document tota la informació de revisions
+Elimina del document tot el seu historial
+Elimina del document el peu d'aquesta pàgina
+Elimina del document la capçalera d'aquesta pàgina
+Elimina la imatge i desa'n una còpia al porta-retalls
+Elimina la imatge del document
+Elimina el quadre de text del document
+Elimina el canvi suggerit
+Repeteix la fila com a encapçalament
+Repeteix la fila com a encapçalament en cada pàgina nova
+Reemplaça-ho tot
+Reemplaça el text indicat per un altre
+Informa d'un error
+Informa d'un error per a ajudar a millorar l'Abiword
+Reinicia la disposició de la barra d'eines actual als valors predeterminats
+Canvia la mida d'aquesta imatge
+Reinicia la numeració a
+Reinicia a cada pàgina
+Reinicia a cada secció
+Reinicia els números de pàgina a cada nova secció
+Continua la llista anterior
+Conserva tots els canvis del document
+Voleu tornar el fitxer a l'última versió desada?
+Retorna el document a l'última versió desada
+Identificador de la revisió
+Tabulació dreta
+Alineació dreta
+Alinea el paràgraf a la dreta
+Dominant de dreta a esquerra
+Drets
+Fila a dalt
+Fila a baix
+Seqüències
+Mostra les revisions
+Divideix les cel·les
+Desa la còpia
+Anomena i desa
+Desa la plantilla
+Desa la còpia de la imatge al porta-retalls
+Desa l'objecte incrustat
+Desa el document
+Desa el document com a plantilla
+Desa el document amb un altre nom
+Desa el document sense canviar-ne el nom actual
+Desa la imatge seleccionada a un fitxer
+Desa a un fitxer
+Cerca ajuda sobre
+Segons entre actualitzacions
+Segons fins a l'esdeveniment
+Salts de secció
+Mostra l'historial del document actual
+Selecciona-ho tot
+Selecciona la cel·la
+Selecciona la columna
+Selecciona el tipus de lletra
+Selecciona la revisió
+Selecciona la fila
+Selecciona la taula
+Selecciona el quadre de text
+Selecciona la imatge des del fitxer
+Selecciona el quadre de text
+Selecciona tot el document
+Selecció
+Maj/min de la frase
+Separa els elements de la taula amb comes
+Separa els elements de la taula amb comes i tabuladors
+Separa els elements de la taula amb tabuladors
+Separa amb comes
+Separa amb comes i tabuladors
+Separa amb tabuladors
+Aplica
+Defineix l'idioma
+Estableix els valors per defecte
+Estableix la imatge
+Estableix la imatge posicionada
+Defineix l'ajustament del text
+Estableix una imatge com a fons per a la pàgina
+Estableix la direcció dominant del document a DAE
+Estableix la direcció dominant del paràgraf a DAE
+Estableix la direcció dominant de la secció a DAE
+Especifica les propietats de les metadades
+Estableix un tabulador nou
+No s'ha definit cap imatge
+Estableix les preferències
+Defineix les aturades tabulars
+Defineix el tipus i estils de l'índex
+Defineix el tipus de les notes al peu i les notes finals
+Defineix els tipus de les capçaleres i els peus de pàgina
+Defineix aquesta fila com a encapçalament
+Defineix aquesta fila com a encapçalament de cada pàgina
+Defineix aquesta imatge per a posicionar-la
+Estableix les preferències del corrector ortogràfic
+Estableix les propietats de pàgina del document com ara la mida i els marges
+Tecla de drecera
+Mostra
+Mostra el regle
+Mostra-ho tot
+Mostra les marques de formatatge
+Mostra el document abans de les revisions
+Mostra el document després de les revisions
+Mostra el document després de les revisions anteriors
+Mostra la llista completa de documents
+Mostra o amaga els regles
+Mostra o amaga la barra d'estat
+Mostra o amaga la barra d'eines
+Mostra les revisions presents al document
+Mostra l'aspecte del document després de les revisions anteriors
+Mostra l'aspecte del document després de les revisions
+Mostra l'aspecte del document abans de les revisions
+Mostra o amaga les anotacions
+Mostra o amaga les marques de formatació
+Simple
+Barra d'eines simple
+Senzill
+Espaiat senzill
+Espaiat senzill
+Cometes intel·ligents
+Ordena la taula
+Ordena les columnes en ordre ascendent
+Ordena les columnes en ordre ascendent basant-se en la fila seleccionada
+Ordena les columnes en ordre descendent
+Ordena les columnes en ordre descendent basant-se en la fila seleccionada
+Ordena les files en ordre ascendent
+Ordena les files en ordre ascendent basant-se en la columna seleccionada
+Ordena les files en ordre descendent
+Ordena les files en ordre descendent basant-se en la columna seleccionada
+Font
+Espai previ 12 pt
+Espai previ cap
+Espaiat
+Verificació de l'ortografia
+Ortografia
+Comprova l'ortografia del document
+Opcions del corrector
+Divideix la taula
+Divideix les cel·les
+Divideix al mig
+Divideix a la part inferior
+Divideix a la banda esquerra
+Divideix a la banda dreta
+Divideix a la part superior
+Divideix el text als espais comes o tabuladors
+Divideix aquesta cel·la
+Llista de quadrats
+Estil
+Estàndard
+Barra d'eines estàndard
+Llista d'estrelles
+Inicia amb
+Inicia una llista nova
+Inicia una subllista
+Inicia una revisió nova
+Inicia una revisió nova
+Inicia una revisió diferent de l'actual
+Estadístiques
+Atura la llista actual
+Barrat
+Barra la selecció (commuta)
+Estilista
+Nom de l'estil -
+Nom de l'estil
+No es pot deixar el nom de l'estil en blanc
+Estils
+Assumpte
+Suggeriments
+Suggereix només del diccionari principal
+Suma una columna
+Suma una fila
+Suma una columna de la taula
+Suma una fila de la taula
+Resum
+Superíndex
+Símbol
+Posició de la tabulació
+Tabulacions per a eliminar
+Mida de la taula
+Barra d'eines de taules
+Índex
+Etiqueta de llista de l'índex
+Pàgina de l'índex
+Tabulacions i numeració de pàgines
+Formatació del text
+Text
+Text després
+Text abans
+Alineació de la llista
+Quadre de text
+Desplegament del text
+Ajustament del text
+Text i icones
+Els marges que heu seleccionat són massa grans per a la pàgina.
+El nou idioma de la interfície serà efectiu quan reinicieu l'aplicació
+La revisió ortogràfica ha finalitzat.
+El text al que apunta un hiperenllaç ha de ser en un sol paràgraf.
+El dia de la setmana
+Gruix
+Aquest canvi només serà efectiu en reiniciar l'AbiWord o bé en crear un nou document.
+Aquest document conté revisions ocultes. Si us plau consulteu la documentació de l'AbiWord per a saber com treballar amb les revisions.
+Aquest paràgraf representa les paraules tal i com apareixerien al document.  Si voleu veure el text del document utilitzat en aquesta previsualització situeu el cursor en un paràgraf amb text i obriu aquest quadre de diàleg.
+Tres
+Llista de verificació
+Fus horari
+Títol
+Majúscules/minúscules d'un títol
+Línia superior
+Llista de triangles
+Dues
+Tipus
+MAJÚSCULES
+Subratlla la selecció (commuta)
+Desfés l'edició
+Actualitza
+Actualitza l'anotació
+Llista en majúscules
+Llista romana superior
+Utilitza l'ordre DAE
+Utilitza l'estil personalitzat de cometes intel·ligent
+Utilitza les formes simbòliques per a l'hebreu
+Interfície d'usuari
+Idioma de la interfície d'usuari
+Estils definits per l'usuari
+Tabuladors definits per l'usuari
+Estils definits per l'usuari
+Versió
+Mostra l'historial del document
+Visualitza el document en mode de pantalla completa
+Visualitza aquest document
+Mostra les etiquetes d'ajuda
+Visible
+Què ha forjat Déu
+Amb l'extensió
+Tractament de textos
+Paraules (sense notes al peu ni finals)
+Paraules en MAJÚSCULES
+Paraules amb nombres
+Paraules
+Heu canviat la direcció per defecte.
+Heu canviat el mode de direcció.
+Heu de seleccionar un fragment del document abans d'inserir-hi un hiperenllaç.
+Heu d'escollir un nombre entre 1 i 120 per a la freqüència de desament automàtic
+Els canvis es perdran si no els deseu.
+Zoom fins a l'amplada de pàgina
+Zoom fins a la pàgina sencera
+custom.dic
+dd/mm/aa
+minúscules
+minuts
+mm/dd/aa
+cOMMUTA lES mAJ./mIN
+Amplada de pàgina
+Tota la pàgina
+(sense comprovació)
+(s'ha omès la prova)
+Al camí indicat no existeix cap directori.
+Gestió d'extensions de l'AbiWord
+AbiWord preimpressió
+Extensions actives
+Afrikaans
+Akan
+Albanès
+Tots (*.*)
+Tots els documents
+Tots els fitxers d'imatge
+Permet l'etiquetatge extra en l'espai de noms AWML
+Àrab
+Àrab (Egipte)
+Àrab (Aràbia Saudita)
+Àrab ISO-8859-6
+Àrab Macintosh
+Àrab Windows 1256
+Armeni
+Armeni ARMSCII-8
+Assamès
+Insereix automàticament els marcadors de direcció
+Revisió automàtica
+Detectat automàticament
+Revisió automàtica
+Bàltic ISO-8859-4
+Bàltic Windows 1257
+Basc
+Bielorús
+Bielorús llatí
+Bengalí
+Blanc i negre
+Text en bloc
+Negreta cursiva
+Bretó
+S'està construint el document
+Búlgar
+Cancel·la
+Català
+Europeu central ISO-8859-2
+Europeu central Macintosh
+Europeu central Windows 1250
+Canvia l'idioma en canviar el teclat
+Encapçalament de capítol
+Xinès (Hong Kong)
+Xinès (RPC)
+Xinès (Singapur)
+Xinès (Taiwan)
+Xinès simplificat EUC-CN (GB2312)
+Xinès simplificat GB2312-80
+Xinès simplificat HZ
+Xinès simplificat Windows 936
+Xinès tradicional BIG5
+Xinès tradicional BIG5-HKSCS
+Xinès tradicional EUC-TW
+Xinès tradicional Windows 950
+Escolliu un document de la llista
+Suprimeix el color de fons
+Fitxer d'imatges
+Tanca sense desar
+Compara
+Compara
+Contingut
+Continguts 1
+Continguts 2
+Continguts 3
+Continguts 4
+Capçalera de continguts
+Còpies
+Copte
+Còrnic
+Cors
+No s'ha pogut carregar/activar l'extensió
+No s'ha pogut desactivar l'extensió
+Creat
+Croat
+Croat Macintosh
+Ciríl·lic ISO-8859-5
+Ciríl·lic KOI8-R
+Ciríl·lic Macintosh
+Ciríl·lic Windows 1251
+Txec
+Danès
+Desactiva totes les extensions
+Desactiva una extensió
+Declara com a XML (versió 1.0)
+Idioma per defecte
+Voleu eliminar aquesta icona de la barra d'eines?
+Comparació de documents
+Detalls del document
+Nom del document
+Documents comparats
+Data d'edició
+Incrusta el full d'estil (CSS)
+Incrusta els tipus de lletra
+Incrusta imatges en les URL (codificades en Base64)
+Codificació
+Referència de nota final
+Text de nota final
+Anglès (Austràlia)
+Anglès (Canadà)
+Anglès (Irlanda)
+Anglès (Nova Zelanda)
+Anglès (Sud-àfrica)
+Anglès (Regne Unit)
+Anglès (Estats Units)
+Introduïu la contrasenya
+Esperanto
+Estonià
+Exporta el fitxer
+Exporta com a HTML 4.01
+Exporta amb instruccions PHP
+Persa
+Fitxer per a enregistrar l'edició
+Fitxer per a reproduir l'edició
+Finlandès
+Referència de la nota al peu
+Text de la nota la peu
+Francès (Bèlgica)
+Francès (Canadà)
+Francès (França)
+Francès (Suïssa)
+Frisó
+De
+Georgià
+Georgià acadèmic
+Georgià PS
+Alemany (Àustria)
+Alemany (Alemanya)
+Alemany (Suïssa)
+Escala de grisos
+Grec
+Grec ISO-8859-7
+Grec Macintosh
+Grec Windows 1253
+Opcions d'exportació HTML
+Haussa (Níger)
+Haussa (Nigèria)
+Hawaià
+Encapçalament 1
+Encapçalament 2
+Encapçalament 3
+Encapçalament 4
+Hebreu
+Hebreu ISO-8859-8
+Hebreu Macintosh
+Hebreu Windows 1255
+Ocult
+Color de ressaltament
+Hindi
+Hongarès
+Islandès
+Islandès Macintosh
+Identificador
+Propietats de la imatge
+La imatge sura sobre el text
+Imatge situada en línia (sense ajustament de text)
+Importa el fitxer
+S'està important el document
+Indonesi
+Mètodes d'entrada
+Insereix un objecte incrustable
+Fitxer de l'objecte incrustable a inserir
+Insereix un fitxer
+Insereix un fitxer matemàtic
+Insereix un fitxer MathML
+Insereix una taula nova
+Insereix un gràfic
+Insereix un símbol
+Instal·la una nova extensió
+Interlingua
+Inuktitut
+El nom del camí no és vàlid.
+Irlandès
+Japonès
+Japonès EUC-JP
+Japonès ISO-2022-JP
+Japonès Shift-JIS
+Japonès Windows 932
+Kannarès
+Coreà
+Coreà EUC-KR
+Coreà KSC5601
+Coreà Windows 949
+Kurd
+Laosià
+Desat per últim cop
+Letó
+Lituà
+Minúscules
+Macedònic
+Converteix-lo en predeterminat per al document
+Malai
+Maori
+Marathi
+Marshallès (Illes Marshall)
+Marshallès (Nauru)
+Combina
+Mongol
+No
+Sense imatge
+No s'ha seleccionat cap extensió
+Normal
+No disponible
+Encapçalament numerat 1
+Encapçalament numerat 2
+Encapçalament numerat 3
+D'acord
+Occità
+Documents oberts
+Percentatge
+Pàgines a imprimir
+Paixtu
+Contrasenya
+Text
+Llista d'extensions
+Polonès
+Portuguès (Brasil)
+Portuguès (Portugal)
+Posició relativa a la seva columna
+Posició relativa a la seva pàgina
+Posició relativa al paràgraf més proper
+Conserva la proporció
+Previsualitza la imatge
+Imprimeix a un fitxer
+Imprimeix a
+Imprimeix a
+Impressora
+Ordre d'impressió
+Quítxua
+Només lectura
+Enregistra l'edició a un fitxer
+Normal
+Relació
+Reprodueix l'edició des del fitxer
+Restaura
+Restaura la configuració
+Resultats
+Romanès
+Romanès Macintosh
+Mostra
+Sard
+Anomena i desa
+Desa la configuració
+Seqüència
+Encapçalament de secció
+Codificació seleccionada
+Seleccioneu les opcions d'exportació HTML
+Escolliu un idioma
+Serbi
+No defineixis cap color de ressaltament
+Mida
+Eslovac
+Eslovè
+Espanyol (Mèxic)
+Espanyol (Espanya)
+Ajustament de text quadrat
+Suahili
+Suec
+Símbols
+Siri
+Tagal
+Tàmil
+Telugu
+Color del text
+Text ajustat a banda i banda de la imatge
+Text ajustat a l'esquerra de la imatge
+Text ajustat a la dreta de la imatge
+Tai
+Tai Macintosh
+Tai TIS-620
+Tai Windows 874
+L'extensió de fitxer indicada no coincideix amb el tipus de fitxer. Voleu usar aquest nom igualment?
+L'ordre d'impressió no és vàlida.
+Aquesta operació no es pot desfer. Esteu segur que voleu continuar?
+Ajustament fort de text
+Per a continuar igualment premeu D'acord.
+Per a abandonar l'intent de recuperació premeu Cancel·la.
+Turc
+Turc ISO-8859-9
+Turc Macintosh
+Turc Windows 1254
+Tipus d'ajustament de text
+US-ASCII
+Ucraïnès
+Ucraïnès KOI8-U
+Ucraïnès Macintosh
+Unicode UCS-2 Big Endian
+Unicode UCS-2 Little Endian
+Unicode UCS-4 Big Endian
+Unicode UCS-4 Little Endian
+Unicode UTF-16 Big Endian
+Unicode UTF-16 Little Endian
+Unicode UTF-32 Big Endian
+Unicode UTF-32 Little Endian
+Unicode UTF-7
+Unicode UTF-8
+Urdú
+Urdú (Pakistan)
+Uzbek
+Historial de versions
+Vietnamita
+Vietnamita TCVN
+Vietnamita VISCII
+Vietnamita Windows 1258
+Mostra el document
+Gal·lès
+Europeu occidental DOS/Windows 850
+Europeu occidental HP
+Europeu occidental ISO-8859-1
+Europeu occidental Macintosh
+Europeu occidental NeXT
+Europeu occidental Windows 1252
+Sí
+Jiddisch
+Factor de zoom
+cm
+diferent
+idèntics
+polzada
+mm
+pica
+punts
+germans
+sense relació
+Estableix el fons de pantalla
+No s'ha pogut carregar la imatge.No s'ha pogut carregar la imatge com a fons de pantalla.No s'ha pogut definir la imatge com a fons de pantalla
+Les meves fotos
+Fons de pantalla
+Retallar fons de pantalla
+Instal·lador de certificats
+Tria un certificat
+Extreu el certificat
+S'està extraient
+Nom del certificat
+Nom del certificat
+Introdueix la contrasenya per extreure els certificats.
+El paquet conté
+Certificats al magatzem de claus PKCS12.
+una clau d'usuari
+un certificat d'usuari
+un certificat de CA
+Introdueix la contrasenya correcta.
+Escriu la contrasenya.
+Escriu un nom.
+Escriu un nom que contingui només lletres i xifres.
+No s'ha pogut desar el certificat. L'emmagatzematge de credencials no està activat o bé no s'ha inicialitzat correctament.
+El certificat no està instal·lat.
+No hi ha cap certificat per instal·lar.
+El certificat no és vàlid.
+Per instal·lar un certificat es requereix una clau privada
+Per instal·lar una clau privada es requereix un certificat
+No s'ha pogut instal·lar perquè la mida del certificat és massa gran.
+No s'ha pogut instal·lar perquè el fitxer de certificat no s'ha pogut ubicar.
+No s'ha pogut instal·lar perquè el fitxer de certificat no s'ha pogut llegir.
+Només el propietari d'aquest dispositiu pot instal·lar certificats.
+Ús de credencials
+VPN i aplicacions
+Wi-Fi
+Nota l'emissor d'aquest certificat pot inspeccionar tot el trànsit que rebi i enviï el dispositiu.
+Perfil de la Wi-Fi
+Detalls
+Instal·la
+S'està instal·lant
+Ignora
+Credencials instal·lades
+FET
+El fitxer baixat té problemes i no es pot instal·lar. Comprova que hagis baixat el fitxer de la font correcta.
+No es poden instal·lar les credencials de Wi-Fi. Prova de tornar a baixar el fitxer.
+S'ha cancel·lat la instal·lació
+No es pot instal·lar
+Activa la Wi-Fi i torna-ho a provar.
+Informació
+No s'ha pogut carregar la informació del fitxer
+Informació de depuració (per a desenvolupadors)
+Dades multimèdia
+Aquest tipus de fitxer s'obre amb
+Aquest fitxer prové de
+No s'ha seleccionat
+Desconeguda
+Dimensions
+Coordenades
+Altitud
+Càmera
+Obertura
+Velocitat de l'obturador
+Durada
+Data de la foto
+Distància focal
+Equivalent d'ISO
+Artista
+Compositor
+Àlbum
+Ubicació
+Fitxers
+Baixades
+Obre des de
+Desa a
+Carpeta nova
+Quadrícula
+Llista
+Cerca
+Configuració d'emmagatz.Obre amb
+Obre en una finestra nova
+Comparteix
+Selecciona-ho tot
+Ordena per
+Copia a
+Mou a
+Comprimeix
+Extreu a
+Canvia el nom
+Obtén informació
+Finestra nova
+Enganxa a la carpeta
+Mostra emmagatz. intern
+Amaga emmagatz. intern
+Extreu
+Mou
+Torna-ho a provar
+Mostra al proveïdor
+Sense ordenar
+Modificat
+Nom del fitxer (A-Z)
+Tipus (A-Z)
+Mida (més petit primer)
+Data d'edició (antics)
+Nom del fitxer (Z-A)
+Tipus (Z-A)
+Mida (més gros primer)
+Data d'edició (recents)
+Nombre d'elements
+Ascendent
+Descendent
+Mostra les arrels
+Amaga les arrels
+No s'ha pogut desar el document
+No s'ha pogut crear la carpeta
+En aquest moment no es pot carregar el contingut
+Recents
+Serveis d'emmagatzematge
+Dreceres
+Dispositius
+Més aplicacions
+No hi ha cap element
+No es pot obrir el fitxer
+No es poden obrir els fitxers dels arxius
+No es poden suprimir alguns documents
+Comparteix mitjançant
+S'estan copiant fitxers
+Comprimint els fitxers
+Extraient els fitxers
+S'estan movent fitxers
+Suprimint els fitxers
+S'està preparant
+Toca per veure'n els detalls
+L'operació del fitxer no s'admet.
+S'ha produït un error en l'operació del fitxer.
+No s'ha pogut canviar el nom del document
+Expulsa
+S'han convertit alguns fitxers
+Vols que l'aplicació ^1 tingui accés al directori ^2 de ^3?
+Vols que l'aplicació ^1 tingui accés al directori ^2?
+Vols que l'aplicació ^1 tingui accés a les dades de ^2 incloses les fotos i els vídeos?
+Permet
+Denega
+Imatges
+No s'ha pogut obrir el fitxer per examinar-lo o bé està malmès o té un format que no s'admet.
+Ja hi ha un fitxer amb aquest nom.
+No es pot mostrar el contingut
+Inicia la sessió
+Continua en segon pla
+Fitxers recents del telèfon
+Fitxers al telèfon
+Imatges recents del telèfon
+Imatges del telèfon
+Àudio
+Vídeos
+Nom de la carpeta
+Nom nou
+Cerca fitxers en altres aplicacions
+Anònima
+Cerca en aquest telèfon
+Etiquetes
+Nova etiqueta recollida
+Etiqueta
+Tipus d'etiqueta desconegut
+Etiqueta buida
+Fet
+Aquesta etiqueta és buida.
+Importa ^1
+Dades d'etiqueta NFC
+Informació de contacte per a ^1
+Per poder fer trucades aquesta aplicació necessita permís per accedir al telèfon. Pots gestionar el permís d'etiquetes a Configuració.Per tenir accés als fitxers aquesta aplicació necessita permís per accedir a l'emmagatzematge extern. Pots gestionar el permís d'etiquetes a Configuració.Gestió de trucades
+Telèfon
+Trucada perduda
+Trucada perduda de feina
+Trucades perdudes
+Torna la trucada
+Missatge
+Trucada silenciada.
+Altaveu activat.
+Ara no puc parlar. Què passa?
+Et truco de seguida.
+Et truco més tard.
+No puc parlar. Em truques després?
+Respostes ràpides
+Edita les respostes ràpides
+Resposta ràpida
+Comptes de trucades
+Només es permeten les trucades d'emergència.
+Aquesta aplicació no pot fer trucades sortints sense el permís del telèfon.
+Per realitzar una trucada introdueix un número vàlid.
+En aquest moment no es pot afegir la trucada.
+Falta el número de la bústia de veu
+No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.
+Afegeix número
+Defineix com a predeterminat
+Números bloquejats
+No rebràs trucades ni missatges de text dels números bloquejats.
+Afegeix un número
+Desbloqueja
+Bloqueja trucades i missatges de text de
+Número de telèfon
+Bloqueja
+Només el propietari del dispositiu pot consultar i gestionar els números bloquejats.
+El bloqueig està desactivat temporalment
+Quan marques un número d'emergència o hi envies un missatge de text el bloqueig es desactiva per garantir que els serveis d'emergència puguin contactar amb tu.
+Torna a activar ara
+No es pot bloquejar el número d'emergència.
+S'està utilitzant el telèfon personal per fer la trucada
+En respondre finalitzarà la trucada en curs
+En respondre finalitzaran les trucades en curs
+En respondre finalitzarà la videotrucada en curs
+Respon
+Rebutja
+No es pot trucar perquè en aquest moment no hi ha cap compte de trucades compatible amb les trucades d'aquest tipus.
+No es pot trucar perquè ja hi ha una trucada en curs en una altra aplicació.
+Trucades entrants
+Bloqueig de trucades
+Números que no surten a Contactes
+Bloqueja els números que no surten a Contactes
+Privades
+Bloqueja les trucades que tinguin el número ocult
+Telèfons públics
+Bloqueja les trucades de telèfons públics
+Bloqueja les trucades de números desconeguts
+El bloqueig de trucades s'ha desactivat
+S'ha fet una trucada d'emergència
+El bloqueig de trucades s'ha desactivat perquè els serveis d'emergència puguin contactar amb tu.
+No s'ha trobat cap fitxer d'adreces d'interès dins dels directoris de dades
+La seqüència de bytes a l'entrada de conversió no és vàlida
+Seqüència de caràcters parcial al final de l'entrada
+No es poden utilitzar els enllaços simbòlics
+No es pot fer una lectura bàsica a giochannelreadlinestring
+A la memòria intermèdia de lectura hi ha dades sobrants no convertides
+El canal acaba en un caràcter parcial
+No es pot fer una lectura bàsica a giochannelreadtoend
+S'ha vist una entitat buida «;». Les entitats vàlides són amp; quot; lt; gt; apos;
+L'entitat no acaba amb un punt i coma. Segurament heu utilitzat un caràcter «» sense intenció d'iniciar una entitat. Substituïu el caràcter «» per amp;
+El caràcter de referència és buit. Hauria d'incloure un dígit com ara #454;
+La referència del caràcter no acaba amb un punt i coma. Segurament heu utilitzat un caràcter «» sense intenció d'iniciar una entitat. Substituïu el caràcter «» per amp;
+Referència a una entitat no acabada
+Referència a un caràcter no acabada
+El text no està codificat correctament a UTF-8 - la seqüència és massa llarga
+El text no està codificat correctament a UTF-8 - no és un caràcter estrella
+El document ha de començar amb un element (p.ex. )
+El document era buit o només contenia espais en blanc
+El document ha acabat de manera inesperada immediatament després del símbol «<»
+El document ha acabat de manera inesperada. S'esperava trobar un símbol «>» que acabés l'etiqueta 
+El document ha acabat de manera inesperada enmig d'un nom d'element
+El document ha acabat de manera inesperada enmig d'un nom d'atribut
+El document ha acabat de manera inesperada enmig d'una etiqueta d'obertura d'un element.
+El document ha acabat de manera inesperada després d'un signe d'igual després d'un nom d'atribut. No hi ha cap valor d'atribut
+El document ha acabat de manera inesperada enmig d'un valor d'atribut
+El document ha acabat de manera inesperada enmig d'un comentari o una instrucció de processament
+objecte malmès
+error intern o objecte malmès
+no hi ha prou memòria
+s'ha arribat al límit de tornades enrere
+el patró conté elements que no estan implementats en les concordances parcials
+error intern
+no s'ha implementat l'ús de referències anteriors per a coincidències parcials
+s'ha arribat al límit de recurrències
+s'ha arribat al límit d'espais de treball per a subcadenes buides
+la combinació de senyaladors de línia nova no és vàlida
+error desconegut
+\ al final del patró
+\c al final del patró
+caràcter no reconegut després de \
+aquí no es permeten els escapaments (\l\L \u \U)
+nombres fora del rang en el quantificador {}
+nombre massa gran en el quantificador {}
+falta el «]» per a la classe de caràcter
+la seqüència d'escapada en la classe de caràcter no és vàlida
+s'ha sortit del rang en la classe de caràcter
+no hi ha res a repetir
+no es reconeix el caràcter després de «(?»
+no es reconeix el caràcter després de «(?<»
+no es reconeix el caràcter després de «(?P»
+només es permeten les classes amb nom de POSIX dins de la pròpia classe
+falta un «)»
+hi ha un «)» sense el corresponent «(»
+«(?R» o «(?[+-]dígits» han d'anar seguits per «)»
+referència a un subpatró que no existeix
+falta un «)» després del comentari
+l'expressió regular és massa llarga
+no s'ha pogut obtenir memòria
+l'asserció cap enrera no té llargada fixa
+nombre o nom malformats després de «(?(»
+el grup condicional conté més de dues branques
+s'esperava una asserció després de «(?(»
+nom de classe POSIX desconeguda
+no es poden utilitzar els elements d'ordenació de POSIX
+el valor del caràcter a la seqüència «\x{}» és massa llarg
+condició «(?(0)» no vàlida
+no es permet \C en assercions cap enrera
+la crida recursiva podria entrar en bucle indefinidament
+falta la finalització en el nom del subpatró
+dos noms de subpatró tenen el mateix nom
+la seqüència «\P» o «\p» és malformada
+es desconeix el nom de la propietat després de «\P» o «\p»
+el nom del subpatró és massa llarg (32 caràcters com a màxim)
+hi ha massa subpatrons amb nom (màxim de 10.000)
+el valor octal és més gran que \377
+el grup «DEFINE» conté més d'una branca
+no es permet repetir un grup «DEFINE»
+opcions «NEWLINE» inconsistents
+«\g» no és seguit per un nom entre claus o un nombre opcional diferent de zero entre claus
+repetició no esperada
+desbordament del codi
+s'ha produït un desbordament en compilar l'espai de treball
+no s'ha trobat el subpatró referenciat comprovat anteriorment
+La biblioteca PCRE no està compilada per a interpretar UTF8
+La biblioteca PCRE no està compilada per a interpretar les propietats UTF8
+s'esperava un dígit hexadecimal o bé «}»
+s'esperava un dígit hexadecimal
+falta un «<» en la referència simbòlica
+la referència simbòlica no està acabada
+referència simbòlica de longitud zero
+s'esperava un dígit
+la referència simbòlica no és vàlida
+«\» final extraviat
+no es reconeix la seqüència d'escapament
+El text citat no comença amb cometes
+S'han trobat unes cometes desaparellades en una línia d'ordres o en un altre text entre cometes
+El text era buit (o només contenia espais en blanc)
+No s'ha pogut llegir dades del procés fill
+S'ha produït un error inesperat a giochanelwin32poll() en llegir dades d'un procés fill
+El caràcter és fora del rang per a UTF-8
+Seqüència no vàlida a l'entrada de la conversió
+El caràcter és fora del rang per a UTF-16
+Forma d'ús
+[OPCIÓ]
+Opcions d'ajuda
+Mostra les opcions d'ajuda
+Mostra totes les opcions d'ajuda
+Opcions de l'aplicació
+No s'ha pogut trobar cap fitxer de claus vàlid als directoris de cerca
+No és un fitxer regular
+El fitxer és buit
+El fitxer de claus no comença amb un grup
+El fitxer de claus conté un caràcter d'escapada al final de línia
+Ja està tancat el flux
+S'ha cancel·lat l'operació
+Tipus desconegut
+No s'esperava un final de flux tant aviat
+Sense nom
+El fitxer d'escriptori no especificava el camp d'execució
+No s'ha pogut trobar el terminal que demanava l'aplicació
+la unitat no implementa l'expulsió
+la unitat no implementa l'enquesta per si hi ha un medi
+S'esperava un GEmblem per a un GEmblemedIcon
+L'operació no està implementada
+No existeix el punt de muntatge contenidor
+No es pot copiar al directori
+No es pot copiar el directori al directori
+Ja existeix el fitxer de destinació
+No es pot copiar el directori de forma recursiva
+No es pot copiar el fitxer especial
+El valor donat per a l'enllaç simbòlic no és vàlid
+No es pot utilitzar la paperera
+el volum no implementa el muntatge
+No hi ha cap aplicació que s'hagi registrat per a gestionar aquest fitxer
+L'enumerador està tancat
+L'enumerador de fitxer té una operació pendent
+Ja està tancat l'enumerador de fitxer
+fitxer
+El fitxer que conté la icona
+Les dades d'entrada pel GFileIcon no són formades correctament
+El flux no implementa «queryinfo»
+No està implementada la cerca en el flux
+No es permet truncar en els fluxs d'entrada
+No es permet trucar en els fluxs
+No es pot gestionar la versió proporcionada de la codificació de la icona
+El flux d'entrada no té implementada la lectura
+El flux té una operació pendent
+No s'ha pogut trobar el tipus de seguiment de directoris locals predeterminat
+No es pot canviar el nom del directori arrel
+No es pot canviar el nom del fitxer ja existeix aquest nom
+Nom de fitxer no vàlid
+No s'ha pogut obrir el directori
+No s'ha pogut trobar el directori superior per a la paperera
+No s'ha pogut trobar o crear el directori de la paperera
+No s'ha pogut moure el directori al directori
+Ha fallat la creació del fitxer de còpia de seguretat
+No està implementat el moure entre muntatges
+El valor de l'atribut no pot ser nul
+Tipus d'atribut no vàlid (s'esperava una cadena)
+El nom de l'atribut estés no és vàlid
+(codificació no vàlida)
+Tipus d'atribut no vàlid (s'esperava un uint32)
+Tipus d'atribut no vàlid (s'esperava un uint64)
+Tipus d'atribut no vàlid (s'esperava una cadena de bytes)
+l'enllaç simbòlic no pot ser nul
+S'ha produït un error en establir l'enllaç simbòlic el fitxer no és un enllaç simbòlic
+El context del SELinux no pot ser nul
+Aquest sistema no té habilitat el SELinux
+No s'ha pogut trobar el tipus de monitorització de fitxer local predeterminat
+El fitxer objectiu és un directori
+El fitxer objectiu no és un fitxer regular
+El fitxer ha estat modificat des d'alguna aplicació externa
+El GSeekType proporcionat no és vàlid
+La sol·licitud de cerca és invàlida
+No es pot truncar el GMemoryInputStream
+S'ha arribat al màxim del límit de la matriu de dades
+El flux de sortida de memòria no és modificable
+Ha fallat el redimensionament de la memòria del flux de sortida
+el muntatge no implementa el desmuntatge
+el muntatge no implementa l'expulsió
+el muntatge no implementa el tornar-se a muntar
+el muntatge no implementa l'estimació de tipus de contingut
+el muntatge no implementa l'estimació de tipus de contingut síncron
+El flux de sortida no implementa l'escriptura
+El flux font ja està tancat
+nom
+El nom de la icona
+noms
+Una llista amb els noms de les icones
+utilitza les alternatives predeterminades
+Si s'han d'utilitzar les alternatives predeterminades que es trobin en escurçar el nom a «-» caràcters. Ignora els noms després del primer si es donen més múltiples noms.
+Descriptor de fitxer
+El descriptor de fitxer del qual llegir
+Tanca el descriptor de fitxer
+Si s'ha de tancar el descriptor de fitxer quan es tanqui el flux
+Arrel del sistema de fitxers
+El descriptor de fitxer al qual escriure
+el volum no implementa l'expulsió
+No es pot trobar l'aplicació
+No estan implementats els URI
+els canvis associatius no estan implementats a win32
+La creació associativa no està implementada a win32
+no amaguis les entrades
+utilitza un format de llistat llarg
+[FITXER]
+Categories de fons de pantalla
+Estableix el fons de pantalla
+S'està establint el fons de pantalla
+Torna-ho a provar
+No es pot establir el fons de pantalla.
+No es pot carregar el fons de pantalla. La imatge està malmesa o bé no està disponible.
+Establert actualment
+Fons de pantalla diari
+Pantalla d'inici i de bloqueig
+Pantalla d'inici
+Pantalla de bloqueig
+Pantalla d'inici i de bloqueig
+Pantalla d'inici i pantalla de bloqueig
+Fons de pantalla amb una imatge rotativa
+Permet l'accés
+Servei de fons de pantalla animats per a fons de pantalla rotatius
+Toca per activar la funció
+El fons de pantalla canviarà automàticament cada dia. Per completar la configuració toca lt;stronggt;Estableix el fons de pantallalt;/stronggt; a la pantalla següent.
+Baixa els propers fons de pantalla només per Wi-Fi
+Continua
+S'està baixant el primer fons de pantalla
+No es pot baixar el primer fons de pantalla. Comprova la configuració de la xarxa i torna-ho a provar.
+El fons de pantalla canviarà automàticament cada dia
+Configuració
+Explora
+Fons de pantalla següent
+L'opció de definir un fons de pantalla està desactivada en aquest dispositiu
+L'administrador del dispositiu ha desactivat l'opció de definir un fons de pantalla
+El fons de pantalla s'ha configurat correctament
+Necessites una connexió a Internet per veure els fons de pantalla. Connecta-t'hi i torna-ho a provar.
+Miniatura del fons de pantalla de la pantalla d'inici que hi ha establert actualment
+Miniatura del fons de pantalla de la pantalla de bloqueig que hi ha establert actualment
+Miniatura del fons de pantalla que hi ha establert actualment
+Miniatura del fons de pantalla
+Explora el fons de pantalla de la pantalla d'inici
+Explora el fons de pantalla de la pantalla de bloqueig
+Actualitza el fons de pantalla diari de la pantalla d'inici
+Actualitza el fons de pantalla diari
+S'està actualitzant el fons de pantalla diari
+No s'ha pogut actualitzar el fons de pantalla diari. Comprova la connexió a la xarxa i torna-ho a provar.
+Replega el tauler d'informació sobre el fons de pantalla
+Desplega el tauler d'informació sobre el fons de pantalla
+Fons de pantalla del dispositiu
+Al dispositiu
+Fons de pantalla d'Android
+Fons de pantalla animats
+La meva foto
+Fons de pantalla
+L'aplicació no està instal·lada.
+Centra i retalla
+Amplia
+iconvopen
+convertint al joc de caràcters d'execució
+els noms de caràcter universals nomès són vàlids en C++ i C99
+"$" en un identificador o un nombre
+convertint UCN al joc font de caràcters
+convertint UCN al joc de caràcters d'execució
+el significat de "\x" és diferent en C tradicional
+es va usar \x sense dígits hexadecimales a continuació
+seqüència d'escapa hexadecimal fora de rang
+seqüència d'escapa octal fora de rang
+el significat de "\a" és diferent en C tradicional
+convertint una seqüència d'escapa al joc de caràcters d'execució
+constant de caràcter massa gran pel seu tipus
+constant de caràcter amb múltiples caràcters
+constant de caràter buida
+es suggereix no usar #elif en C tradicional
+l'incrustació d'una directiva entre arguments de macro no és portable
+la directiva d'estil de línia és una extenció del GCC
+"defined" no es pot usar com un nom de macro
+els noms de macro han de ser identificadors
+falta el caràcter de terminació >
+#include niat amb massa profunditat
+#includenext en el fitxer font primari
+nombre de línia fora de rang
+#pragma una vegada en el fitxer principal
+directiva #pragma de GCC enverinada invàlida
+#pragma systemheader ignorat fora del fitxer d'inclusió
+Pragma pren una cadena literal entre parèntesis
+#else sense #if
+#else després de #else
+el condicional va començar aquí
+#elif sense #if
+#elif després de #else
+#endif sense #if
+falta "(" abans del predicat
+falta ")" per a completar la resposta
+el predicat de la resposta està buit
+afirmació sense predicat
+el predicat ha de ser un identificador
+comentari sense acabar
+stdout
+ús d'una constant de coma flotant hexadecimal C99
+ús d'una constant entera long long C99
+les constants imaginàries són una extensió d'el GCC
+la constant entera és massa gran pel seu tipus
+la constant entera és tan gran que és unsigned
+")" faltant després de "defined"
+l'operador "defined" requereix un identificador
+aquest ùs de "defined" podria no ser portable
+constant de coma flotant en l'expressió del preprocessador
+nombre imaginari en l'expressió del preprocessador
+")" faltant en l'expressió
+"?" sense el "" següent
+desbordament d'enter en l'expressió del preprocessador
+"(" faltant en l'expressió
+C tradicional rebutja l'operador unari més
+operador coma en operant de #if
+divisió per zero en #if
+directori NULL en findfile
+un o més fitxers PCH varen ser trobats però varen ser invàlids
+usi -Winvalid-pch per a més informació
+Múltiples guàrdies d'inclusió poden ser útils per a
+cppchart ha de ser d'un tipus unsigned
+l'aritmètica de CPP ha de ser almenys tan precisa com un int de l'objectiu
+el char de l'objectiu té menys de 8 bits d'ampliaria
+el wchart de l'objectiu és més estret qu'el char de l'objectiu
+el int de l'objectiu és més estret qu'el char de l'objectiu
+el half-integer de CPP és més estret que el caràcter de CPP
+barra invertida i fi de línia separats per un espai
+barra invertida i nova línia al final del fitxer
+"/*" dintre d'un comentari
+caràter(es) nul(s) ignorats
+VAARGS solament pot aparèixer en l'expansió d'una macro variadic C99
+caràcter(es) nul(s) preservats en la literal
+els comentaris d'estil C++ no són permesos en ISO C90
+(això es reportarà solament una vegada per cada fitxer d'entrada)
+comentari en múltiples línies
+no es pot determinar la data i l'hora
+cadena literal invàlida s'ignora el "\" final
+ISO C99 requereix que la resta dels arguments sigui usat
+els paràmetres de macro han de ser separats per comes
+falta el nom del paràmetre
+els macros variadic anònims es van introduir en C99
+ISO C no permet macros variadic nomenats
+")" faltant en la llista de paràmetres de macro
+"##" no pot apareixer en o al final d'una expansió de macro
+ISO C99 requereix espais en blanc després del nom de macro
+espais en blanc faltant després del nom de macro
+"#" no és seguit per un paràmetre de macro
+aquesta és la ubicació de la definició prèvia
+mentre escrivint capçalera precompilada
+mentre llegint capçalera precompilada
+error sintàctic en la llista de paràmetre de macro
+Ràdio FM
+S'han trobat les emissores disponibles següents
+No es poden cercar les emissores disponibles.
+Altaveu
+Auricular
+No s'ha detectat cap targeta SD.
+No hi ha prou espai a la targeta SD.
+S'ha produït un error intern a l'enregistrador.
+Descarta
+Escriu el nom del fitxer aquí.ja existeix
+Actualment no està disponible.Emissora anterior
+Redueix la freqüència
+Augmenta la freqüència
+Emissora següent
+Afegeix als preferits
+Inicia l'enregistrament
+Més
+S'està enregistrant
+FM
+Reprodueix o atura la ràdio FM
+Enregistraments desats
+Actualitza
+Per començar a escoltar-la connecta els auriculars (fan la funció d'antena).
+Emissores de ràdio
+S'estan obtenint les emissores.No s'ha trobat cap emissora.00
+Enregistrament en curs
+ATURA ENREGISTRAMENT
+Vols desar l'enregistrament?
+Per escoltar els enregistraments obre l'aplicació Play Music.
+Preferits
+Introdueix el nom de l'emissora.Treu dels preferits
+L'enregistrament s'ha desat.L'enregistrament no s'ha desat.ESCOLTA
+S'ha canviat el nom de l'emissora.Phase Beam
+Google
+Calculadora
+No és una xifra
+Error
+cos
+ln
+log
+sin
+tan
+CE
+nombre d'Euler
+pi
+punt
+parèntesi d'obertura
+parèntesi de tancament
+cosinus
+logaritme natural
+logaritme
+sinus
+tangent
+més
+divideix
+factorial
+vegades
+potència
+arrel quadrada
+menys
+esborra
+suprimeix
+és igual a
+1 cançó
+Música
+Sessió aleatòria
+Desactiva la sessió aleatòria
+Reprodueix aleatòriament
+Reprodueix-ho tot
+S'està cercant a la targeta SD
+S'està explorant l'emmagatzematge USB
+Reproducció en curs
+Artistes
+Àlbums
+Cançons
+Llistes
+Tots els fitxers multimèdia
+Cap cançó
+Cap vídeo
+Cap llista de reproducció
+S'ha suprimit la llista de reproducció.
+S'ha canviat el nom de la llista de reproducció.
+Afegits recentment
+Podcasts
+No hi ha cap targeta SD
+Sense emmagatzematge USB
+El telèfon no té cap targeta SD inserida.
+El telèfon no té emmagatzematge USB.
+La targeta SD no està disponible
+Emmagatzematge USB no disponible
+La targeta SD està ocupada.
+L'emmagatzematge USB està ocupat.
+Error de targeta SD
+Error d'emmagatzematge USB
+S'ha detectat un error a la targeta SD.
+S'ha detectat un error a l'emmagatzematge USB.
+Intèrpret desconegut
+Àlbum desconegut
+Reproducció aleatòria activada.Reproducció aleatòria desactivada.
+La repetició està desactivada.
+S'està repetint la cançó actual.
+S'estan repetint totes les cançons.
+Utilitza com a so de trucada del telèfon
+Utilitza com a so
+Reprodueix
+Afegeix a la llista
+Llista de reproducció actual
+La llista de reproducció seleccionada és buida.
+Sobreescriu
+Problema de reproducció
+No s'ha pogut reproduir la cançó.
+1 setmana
+2 setmanes
+3 setmanes
+4 setmanes
+5 setmanes
+6 setmanes
+7 setmanes
+8 setmanes
+9 setmanes
+10 setmanes
+11 setmanes
+12 setmanes
+Defineix l'hora
+Anomena i desa com a llista de reproducció
+Esborra la llista de reproducció
+Música
+Llista de reproducció de música
+El reproductor no és compatible amb aquest tipus de fitxer d'àudio.
+Suprimeix de la llista de reproducció
+S'està carregant
+Cançons
+Tria una pista de música
+Artistes àlbums i cançons
+Cerca música
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Toca per triar música.
+Efectes de so
+Depuració
+Habilita el buidatge del batchbuffer després de cada trucada de dibuix
+Habilita el buidatge de les memòries cau de GPU amb cada trucada de dibuix
+Deshabilita la regulació en el primer lot després de buidar
+Força que el comportament per defecte de les extensions GLSL sigui 'warn'
+Deshabilita la barreja de font dual
+Deshabilita les continuacions de línia basades en barra invertida en la font GLSL
+Força una versió GLSL per defecte en els shaders als quals lis manca una línia #version explícita
+Permet les directives #extension GLSL en el mitjà dels shaders
+Qualitat d'imatge
+Un filtre de postprocessament per a aplicar cel shading a la sortida
+Un filtre de postprocessament per a eliminar el canal vermell
+Un filtre de postprocessament per a eliminar el canal verd
+Un filtre de postprocessament per a eliminar el canal blau
+Antialiàsing morfològic basat en el MLAA de Jimenez. 0 per deshabilitar 8 per qualitat per defecte
+Antialiàsing morfològic basat en el MLAA de Jimenez. 0 per deshabilitar 8 per qualitat per defecte. Versió en color utilitzable amb les aplicacions GL 2D
+Rendiment
+Sincronització amb refresc vertical (intervals d'intercanvi)
+Mai sincronitzis amb el refresc vertical ignora l'elecció de l'aplicació
+Interval d'intercanvi inicial 0 obeeix l'elecció de l'aplicació
+Interval d'intercanvi inicial 1 obeeix l'elecció de l'aplicació
+Sempre sincronitza amb el refresc vertical l'aplicació tria l'interval mínim d'intercanvi
+Miscel·lània
+Crea tots els visuals amb buffer de profunditat
+Inicialització
+Defineix el dispositiu de gràfics que utilitzar si és possible
+Gallium Nine
+Defineix el valor de regulació. -1 per a no regular -2 per al predeterminat (generalment 2) 0 per al comportament de glfinish
+Utilitza un fil addicional per a entregar els buffers.
+Servei oient de notificacions del cotxe
+Centre de notificacions
+Esborra-ho tot
+Visualitzador
+Forma d'ona
+Espectre
+Vúmetre
+Molts
+Fons de pantalla  de visualització de música
+Dibuixa l'ona sonora de qualsevol pista de música que s'estigui reproduint.
+Mostra l'espectre de freqüència de qualsevol pista de música que s'estigui reproduint.
+Simula un sonòmetre analògic.
+Totes les visualitzacions de música juntes girant lentament en 3D.
+Microsoft Exchange ActiveSync
+Serveis d'Exchange
+No permetis targetes d'emmagatzematge
+No permetis aplicacions no signades
+No permetis instal. d'aplic. no sign.No permetis la Wi-Fi
+No permetis els missatges de text
+No permetis els comptes POP3 ni IMAP
+No permetis comunicacions per infraroigs
+No permetis el correu electrònic HTML
+No permetis els navegadors
+No permetis correus electr. de consum.No permetis la compartició per Internet
+Requereix missatges SMIME
+Restringeix l'ús de Bluetooth
+No permetis aplicacions especificades
+Permet només les aplicacions especif.Restring. mida de correu electr. de text
+Restringeix mida del correu electr. HTML
+Requereix l'encriptació de targetes SD
+No permetis fitxers adjunts
+Restringeix la mida del fitxer adjunt
+Permet només sincr. manual en itinerància
+Requereix l'encriptació del dispositiu
+Automàtic
+Un dia
+Tres dies
+Una setmana
+Dues setmanes
+Un mes
+Error d'autenticació
+Torna a activar l'aplicació Correu per consultar-ne la configuració.
+Contactes
+Afegeix un contacte
+Contacte
+Marcatge directe
+Missatge directe
+Tria un contacte
+Afegeix al contacte
+Tria un contacte
+Crea un contacte
+Cerca als contactes
+Afegeix als preferits
+Suprimeix dels preferits
+Eliminat dels preferits
+Afegit als preferits
+Canvia la foto
+Crea una drecera
+Desenllaça
+Suprimeix els contactes
+Canvia el nom de l'etiqueta
+Suprimeix l'etiqueta
+Selecciona contactes
+Afegeix contactes
+Suprimeix de l'etiqueta
+Crea una etiqueta
+Vols desenllaçar aquest contacte en diversos contactes?
+Vols desar els canvis que ja has aplicat i desenllaçar aquest contacte en diversos contactes?
+Desa i desenllaça
+Vols desar els canvis que ja has aplicat i enllaçar els contactes seleccionats?
+Desa i enllaça
+S'està enllaçant
+S'està desenllaçant
+Enllaça
+Mostra els contactes enllaçats
+Enllaça els contactes
+Contactes suggerits
+Tots els contactes
+Contactes enllaçats
+De Google
+Estableix so
+Encamina a la bústia de veu
+No encaminis a la bústia de veu
+Aquest contacte és només de lectura. No es pot suprimir però el pots amagar.
+Amaga el contacte
+Els contactes només de lectura d'aquest compte s'amagaran però no se suprimiran.
+Vols suprimir aquest contacte?
+Vols suprimir els contactes seleccionats?
+Els contactes dels teus comptes que siguin només de lectura no es poden suprimir però sí que es poden amagar.
+Els contactes que s'han de suprimir tenen informació de diversos comptes. La informació dels comptes que siguin només de lectura s'amagarà però no se suprimirà.
+Si suprimeixes aquest contacte se suprimirà informació de diversos comptes.
+El contacte no existeix.
+S'ha afegit el contacte a la pantalla d'inici.
+No hi ha cap imatge disponible al dispositiu.
+Foto de contacte
+Nom de camp personalitzat
+Suprimeix la foto
+La llista de contactes és buida
+No hi ha cap contacte amb aquesta etiqueta
+No hi ha cap contacte en aquest compte
+S'ha desat el contacte
+Els contactes s'han desenllaçat
+No s'han pogut desar els canvis al contacte
+No s'ha pogut desenllaçar el contacte
+No s'ha pogut enllaçar el contacte
+S'ha produït un error en desar el contacte
+No s'han pogut desar els canvis de la foto de contacte
+L'etiqueta no s'ha pogut carregar
+L'etiqueta s'ha suprimit
+L'etiqueta s'ha creat
+L'etiqueta no es pot crear
+L'etiqueta s'ha actualitzat
+S'han suprimit de l'etiqueta
+S'han afegit a l'etiqueta
+No s'han pogut desar els canvis fets a l'etiqueta
+Aquesta etiqueta ja existeix
+Alguns contactes no tenen adreces electròniques.
+Alguns contactes no tenen números de telèfon.
+Envia un correu electrònic
+Envia un missatge
+Tria contactes
+Envia
+No hi ha cap contacte
+Noms dels contactes
+Fes clic per tornar a la pantalla anterior
+Afegeix un número de telèfon
+Afegeix una adreça electrònica
+No s'ha trobat cap aplicació per processar aquesta acció.
+Afegeix als contactes
+Tria un compte
+Nom de l'etiqueta
+Xat de veu
+Xat de vídeo
+Fes una foto
+Fes una foto nova
+Tria una foto
+Selecciona una foto nova
+S'està cercant
+Etiqueta
+Enrere
+tanca
+Vols canviar per editar el contacte seleccionat? Es copiarà la informació que hagis introduït fins ara.
+Ajuda i suggeriments
+Inclou l'any
+Afegeix un compte
+Importa
+Crea
+Escriu el nom del contacte abans d'enllaçar-lo amb un altre contacte.
+Copia al porta-retalls
+Predeterminat
+Esborra els valors predeterminats
+Text copiat
+Vols descartar els canvis?
+Vols descartar les personalitzacions?
+El meu perfil local
+Dedica un minut a afegir un compte per crear una còpia de seguretat dels contactes a Google.
+Tria un compte predeterminat per als contactes nous
+Edita el contacte
+Només de lectura
+Tria un contacte per editar-lo
+Contactes enllaçats
+Afegeix compte
+Exporta els fitxers de la base de dades
+Mostra'n més
+Mostra'n menys
+Informació
+S'està creant una còpia personal
+MI
+Organització
+Àlies
+Nota
+Lloc web
+Esdeveniment
+Adreça electrònica
+indicacions cap a la ubicació
+Més camps
+Canvia la foto del contacte
+Afegeix una foto al contacte
+No s'ha pogut obrir l'editor.
+Es desa a
+ENLLAÇA ELS CONTACTES
+CANCEL·LA
+Aquest contacte
+Possibles duplicats
+És possible que aquests contactes corresponguin a la mateixa persona. Els pots enllaçar i crear un contacte únic.
+Obre el tauler de navegació
+Tanca el tauler de navegació
+Etiquetes
+Comptes
+Mantén els contactes organitzats i rellevants
+Truca a casa
+Truca al mòbil
+Truca a la feina
+Truca al fax de la feina
+Truca al fax particular
+Truca al cercapersones
+Truca a
+Truca al número de crida de retorn
+Truca al cotxe
+Truca el telèfon principal de l'empresa
+Truca a l'XDSI
+Truca al telèfon principal
+Truca al fax
+Truca a la ràdio
+Truca al tèlex
+Truca a TTY/TDD
+Truca al mòbil de la feina
+Truca al cercapersones de la feina
+Truca al número MMS
+Envia un SMS al número particular
+Envia un SMS al mòbil
+Envia un SMS a la feina
+Envia un SMS al fax de la feina
+Envia un SMS al fax particular
+Envia un SMS al cercapersones
+Envia un SMS a la crida de retorn
+Envia un SMS al cotxe
+Envia un SMS al telèfon principal de l'empresa
+Envia un SMS a l'XDSI
+Envia un SMS al telèfon principal
+Envia un SMS al fax
+Envia un SMS a la ràdio
+Envia un SMS al tèlex
+Envia un SMS al TTY/TDD
+Envia un SMS al telèfon de la feina
+Envia un SMS al cercapersones de la feina
+Envia un MMS
+Estableix una videotrucada
+Vols esborrar contac. més freqüents?
+S'esborrarà la llista de contactes més freqüents a les aplicacions Contactes i Telèfon i es forçarà les aplicacions de correu electrònic a obtenir informació nova sobre les teves preferències pel que fa a adreces.
+S'està esb. cont. més freqüents
+Disponible
+Absent
+Ocupat
+Directori
+Directori de la feina
+(Sense nom)
+Contactats sovint
+Tots els contactes amb números de telèfon
+Contactes del perfil professional
+Mostra actualitzac.Dispositiu
+SIM
+Nom
+Cognoms
+Prefix del nom
+Segon nom
+Sufix del nom
+Nom fonètic
+Nom fonètic
+Segon nom fonètic
+Cognoms fonètics
+Adreça
+Data especial
+Missatge de text
+Empresa
+Notes
+Personalitzat
+SIP
+Envia un correu electrònic a l'adreça particular
+Envia un correu electrònic al mòbil
+Envia un correu electrònic a la feina
+Carrer
+Ciutat
+Estat
+Codi postal
+País
+Visualitza l'adreça particular
+Visualitza l'adreça de la feina
+Visualitza l'adreça
+Xateja amb AIM
+Xateja amb Windows Live
+Xateja amb Yahoo
+Xateja amb Skype
+Xateja amb QQ
+Xateja amb Google Talk
+Xateja amb ICQ
+Xateja amb Jabber
+Fes un xat
+Mostra més camps de nom
+Replega els camps de nom
+Mostra més camps amb la transcripció fonètica del nom
+Replega els camps amb la transcripció fonètica del nom
+Desplega
+Replega
+Desplegat
+Replegat
+Destacats
+Personalitza
+La resta de contactes
+Elimina el grup de sincronització
+Afegeix un grup de sincronització
+Més grups
+S'estan desant les opcions de visualització
+Visualització personalitzada
+Desa els contactes importats a
+Targeta SIM
+Fitxer .vcf
+No hi ha res per importar
+Vols importar contactes de la vCard?
+No es pot cancel·lar la imp./exp. vCard
+S'ha produït un error desconegut.
+No hi ha cap contacte que es pugui exportar.
+Has desactivat un permís obligatori.
+Error d'E/S
+No hi ha prou memòria. És possible que el fitxer sigui massa gran.
+No s'admet aquest format.
+S'han acabat d'exportar els contactes.S'han acabat d'exportar els contactes; fes clic a la notificació per compartir-los.
+Toca per compartir els contactes.
+S'estan exportant les dades de contacte
+S'estan exportant les dades de contacte.
+No s'ha pogut obtenir informació de la base de dades.
+No hi ha contactes que es puguin exportar.
+No s'ha iniciat correctament el creador de vCard.
+Error en exportar
+No s'han pogut llegir les dades de vCard
+D'aquí a poc s'importarà el fitxer.
+S'ha rebutjat la sol·licitud per importar vCard. Torna-ho a provar més tard.
+Aviat s'exportaran els contactes.
+S'ha rebutjat la sol·licitud per exportar vCard. Torna-ho a provar més tard.
+contacte
+S'estan desant els vCard a l'emmagatzematge temporal local. La importació real començarà aviat.
+No s'ha pogut importar la vCard.
+Contac. reb. NFC
+Desament a la memòria cau
+Exporta a un fitxer .vcf
+Mostra sempre
+Amaga si és buit
+Format del nom
+Primer el nom
+Primer els cognoms
+Compte predeterminat per als contactes nous
+La meva informació
+Configura el teu perfil
+Informació sobre Contactes
+Comparteix els contactes preferits
+Comparteix tots els contactes
+No s'han pogut compartir els contactes.
+Exporta contactes
+Importa contactes de
+No es pot compartir aquest contacte.
+No hi ha cap contacte per compartir.
+Contactes per mostrar
+Personalitza la visualització
+Exporta
+atura la cerca
+Esborra la cerca
+Compte
+Utilitza sempre per a les trucades
+Truca amb una nota
+Escriu una nota per enviar-la juntament amb la trucada
+ENVIA I TRUCA
+Versió de la compilació
+Llicències de programari lliure
+Detalls de la llicència de programari lliure
+Política de privadesa
+Condicions del servei
+No s'ha pogut obrir l'URL.
+Fa una videotrucada
+Punts suspensius
+Aquesta drecera s'ha desactivat
+El contacte s'ha suprimit
+No hi ha cap contacte a la targeta SIM
+El contacte ja existeix a la teva llista
+No s'han pogut importar els contactes de la SIM
+Importa des de la SIM
+La sincronització automàtica està desactivada. Toca per activar-la.
+La sincronització del compte està desactivada. Toca per activar-la.
+Vols activar la sincronització automàtica?
+Els canvis que facis a les aplicacions i als comptes i no només als Contactes de Google es mantindran actualitzats al web i als teus dispositius.
+Activa
+Sense connexió
+Mostra més
+Importació de la targeta SIM completada
+La importació ha fallat
+No s'han pogut importar els contactes de la targeta SIM
+S'estan important els contactes de la SIM
+Notificacions
+Selector de fons de pantalla animat
+Selecció del fons de pantalla animat
+Fons de pantalla animats
+Previsualització del fons de pantalla animat
+No hi ha cap fons de pantalla animat.
+S'està carregant el fons de pantalla animat
+Galeria
+Gen.Febr.Març
+Abr.Maig
+Juny
+Jul.Ag.Set.Oct.Nov.Des.Marc de la imatge
+Pel·lícules
+S'està carregant el vídeo
+Reprèn el vídeo
+Reprèn la reproducció
+Torna a començar
+Piqueu en una cara per començar.
+S'està desant la imatge
+Escapça la imatge
+Espereu-vos
+Defineix la imatge com a
+S'està definint l'empaperat espereu-vos
+S'estan carregant els àlbums i les fotos nous
+Seleccioneu un element de la vostra col·lecció
+No hi ha cap element a la col·lecció
+Selecció
+Confirmeu la supressió
+Targeta SD desmuntada o no present
+Emmag. USB no instal·lat
+Anul·la la selecció de tot
+Presentació de diapositives
+àlbum seleccionat
+element seleccionat
+àlbums seleccionats
+elements seleccionats
+Inicia
+Final
+Ubicació desconeguda
+Data d'addició
+Mostra al mapa
+Gira a l'esquerra
+Gira a la dreta
+Escapça
+Defineix com a
+Defineix com a empaperat
+element
+elements
+Aprox.Data desconeguda
+No es pot reproduir el vídeo
+Informació d'emergència
+Informació mèdica
+Afegeix informació
+Edita la informació d'emergència
+Data de naixement
+Suprimeix la data de naixement
+Grup sanguini
+O+
+O-
+A+
+A-
+B+
+B-
+AB+
+AB-
+HH
+O positiu
+O negatiu
+A positiu
+A negatiu
+B positiu
+B negatiu
+AB positiu
+AB negatiu
+Hh
+Al·lèrgies
+Per exemple als cacauets
+Medicaments
+Per exemple aspirina
+Notes mèdiques
+Per exemple asma
+Donant d'òrgans
+Contactes d'emergència
+No s'ha pogut trobar cap selector de contactes
+No es pot mostrar el contacte
+Suprimeix el contacte
+No es pot llegir correctament la informació de contacte
+No hi ha informació sobre el propietari del telèfon
+Si el telèfon és teu toca la icona de llapis per afegir la informació que es mostrarà aquí en cas d'emergència
+Vols esborrar tota la informació i tots els contactes?
+Afegeix la informació d'emergència
+Mostra la teva informació als serveis d'emergència
+Fes una foto
+Tria una imatge
+Selecciona una foto
+Bombolles
+múltiples «!»
+«» inesperada
+no es pot utilitzar +N o N com a primera adreça
+«{» no emparellat
+«}» inesperat
+hi ha caràcters extra després de l'ordre
+s'espera \ després de «a» «c» i «i»
+«}» no accepta cap adreça
+no accepta cap adreça
+els comentaris no accepten cap adreça
+cal una ordre
+l'ordre utilitza només una adreça
+l'expressió regular d'adreça no està terminada
+ordre «s» no terminada
+ordre «y» no terminada
+opció desconeguda per a «s»
+múltiples opcions «p» per a l'ordre «s»
+múltiples opcions «g» per a l'ordre «s»
+múltiples opcions numèriques per a l'ordre «s»
+l'opció numèrica per a l'ordre «s» no pot ser zero
+les cadenes per a l'ordre «y» són de longituds diferents
+el caràcter delimitador no és un caràcter d'un byte
+s'esperava una versió més nova de sed
+ús de l'adreça de línia 0 invàlid
+s'ha produït un error en el subprocés
+l'opció «e» no està suportada
+l'ordre «e» no està suportada
+no hi ha fitxers d'entrada
+no hi ha una expressió regular prèvia
+no es poden especificar modificadors en expregs buides
+--help     mostra aquest missatge d'ajuda i surt
+--version  mostra la informació de la versió i surt
+Èxit
+Sense parella
+Expressió regular no vàlida
+El caràcter de comparació no és vàlid
+Nom de classe de caràcter no vàlid
+Barra invertida al final
+La referència cap enrere no és vàlida
+[ o [^ no emparellat
+«(» o \( no emparellat
+\{ no emparellat
+El contingut de \{\} no és vàlid
+El rang final no és vàlid
+Memòria exhaurida
+L'expressió regular precedent no vàlida
+Fi prematur de l'expressió regular
+L'expressió regular és massa gran
+) o \) no emparellat
+No hi ha una expressió regular prèvia
+Més de 30 dies d'antiguitat
+Més de 60 dies d'antiguitat
+Més de 90 dies d'antiguitat
+Gestor d'emmagatzematge
+Allibera espai
+Suprimeix elements
+No s'ha utilitzat en un any
+Es desconeix quan es va utilitzar per última vegada
+Còpies de seguretat de fotos i vídeos
+Vols que l'emmagatzematge es gestioni automàticament?
+No gràcies
+Aplicacions utilitzades amb poca freqüència
+Manual
+Allibera espai ara
+Servei gestió d'emmagatzematge automàtic
+Queda poc espai al telèfon
+Permet que el gestor d'emmagatzematge alliberi espai suprimint automàticament les fotos i els vídeos antics quan el telèfon comenci a estar ple de nou.
+S'estan cercant elements
+Mostra tots els elements
+Amaga els elements recents
+Ara mateix el gestor d'emmagatzematge gestiona el teu emmagatzematge
+No hi ha res per suprimir
+Revisa els elements recents
+No hi ha fitxers antics per suprimir. Per alliberar espai suprimeix fotos vídeos i aplicacions recents.
+Clauer
+No s'ha trobat cap certificat
+Tria de certificat
+Complet
+Tots els canals
+Familiar/infantil
+Esports
+Compres
+Comèdia
+Viatges
+Drama
+Educació
+Animals/fauna
+Notícies
+Jocs
+Art
+Entreteniment
+Estil de vida
+Principal
+Ciència i tecnologia
+Els programes poden contenir material inapropiat per a menors de 15 anys i per tant els pares han de decidir si els menors d'aquesta edat els poden mirar.
+Els programes poden contenir material inapropiat per a menors de 19 anys i per tant no són aptes per a menors d'aquesta edat.
+Diàlegs suggerents
+Llenguatge vulgar
+Contingut sexual
+Violència
+Violència fantàstica
+El programa està concebut perquè el puguin mirar nens de totes les edats.
+El programa està concebut perquè el mirin nens a partir dels 7 anys.
+La majoria dels pares poden considerar que el programa és adequat per a totes les edats.
+El programa conté material que alguns pares poden trobar poc adequat per a nens petits però pot ser que d'altres sí que el considerin adequat.
+El programa conté material que molts pares poden trobar poc adequat per a nens menors de 14 anys.
+El programa s'ha concebut específicament per al públic adult i per tant es pot considerar poc adequat per als nens menors de 17 anys.
+Classificacions de pel·lícules
+Públic general. No té contingut que pugui resultar ofensiu per al públic menor d'edat.
+Es recomana supervisió parental. Pot contenir material que no sigui adequat per al públic infantil.
+Es recomana supervisió parental. És possible que contingui material que no sigui adequat per al públic preadolescent.
+Contingut restringit; conté material per a adults. Cal que els pares s'informin sobre el contingut de la pel·lícula abans d'anar-la a veure amb menors d'edat.
+No apte per a menors de 18 anys. Contingut clarament per a adults i no apte per al públic menor d'edat.
+mono
+estèreo
+Controls de reproducció
+Canals
+Opcions de TV
+Els controls de reproducció no estan disponibles en aquest canal
+Reprodueix o atura
+Avança ràpidament
+Rebobina
+Següent
+Anterior
+Guia de programes
+Nous canals disponibles
+Subtítols
+Mode visualitz.PIP
+Multiàudio
+Troba més canals
+Televisió (antena/cable)
+No hi ha informació del programa
+No hi ha informació
+Canal bloquejat
+Idioma desconegut
+Desactivat
+Personalitza format
+Estableix preferències de subtítols al sistema.So envoltant 5.1
+So envoltant 7.1
+Personalitza la llista
+Selecciona un grup
+Anul·la la selecció
+Agrupa per
+Font del canal
+HD/SD
+Alta definició
+SD
+Aquest programa està bloquejat
+Aquest programa no s'ha classificat
+L'entrada no és compatible amb la cerca automàtica.No es poden iniciar les preferències de subtítols del sistema.
+No s'ha afegit cap canal.Controls dels pares
+Activats
+Canals bloquejats
+Bloqueja-ho tot
+Desbloqueja'ls tots
+Canals amagats
+Restriccions prog.Canvia el PIN
+Sistemes classif.Puntuacions
+Mostra tots sistemes
+Altres països
+Sense classificar
+Bloqueja prog. sense classificar
+Restriccions altes
+Restricc. mitjanes
+Restriccions baixes
+Contingut apte per a infants
+Contingut apte per a nens més grans
+Contingut apte per a adolescents
+Restriccions manuals
+Subclassificacions
+Introducció del PIN per mirar aquest canal
+Introducció del PIN per mirar aquest programa
+Aquest programa no s'ha classificat. Introdueix el PIN per veure'l.Introducció del PIN
+Per definir els controls dels pares crea un PIN
+Introdueix el PIN nou
+Confirmació del PIN
+Introducció del PIN actual
+El PIN era incorrecte. Torna-ho a provar.
+Torna-ho a provar. El PIN no coincideix.Tria canals per a la programació
+Fonts de canals
+Desplaçament temporal
+Envia suggeriments
+Per veure aquest canal prem el botó dret i introdueix el PIN.Per veure aquest programa prem el botó dret i introdueix el PIN.Per mirar aquest canal fes servir l'aplicació Televisió en directe predeterminada.
+Per mirar aquest programa fes servir l'aplicació Televisió en directe predeterminada.
+El programa està bloquejat.Només àudio
+El senyal és feble
+No hi ha connexió a Internet
+Sense títol
+Canal bloquejat
+Fonts
+No hi ha cap canal disponible
+No configurat
+Troba més fonts
+Navega per les aplicacions que ofereixen TV en directe
+Hi ha noves fonts de canals disponibles
+Configura ara
+D'acord
+Prem SELECCIONA per accedir al menú de TV.
+No s'ha trobat cap entrada de televisió
+No es troba l'entrada de televisió
+El sintonitzador no és apte; inicia l'aplicació Canals en directe per accedir a l'entrada del sintonitzador.
+No s'ha pogut sintonitzar
+El vídeo ha deixat d'estar disponible de manera inesperada
+La tecla ENRERE és per als dispositius connectats. Prem el botó INICI per sortir.
+Canals en directe necessita permís per consultar les programacions de TV.
+Configura les teves fonts
+Enregistraments i horaris
+10 minuts
+30 minuts
+1 hora
+3 hores
+Programats
+Sèries
+Altres
+El canal no es pot enregistrar.
+El programa no es pot enregistrar.
+Calendari complet
+Cancel·la l'enregistrament
+Atura l'enregistrament
+Reprodueix
+Reprodueix des del principi
+Suprimeix els enregistraments
+Reprèn
+Mostra programa
+Més informació
+Selecciona els episodis que vols suprimir. No els podràs recuperar una vegada s'hagin suprimit.
+No hi ha cap enregistrament per suprimir.
+Selecciona els episodis mirats
+Selecciona tots els episodis
+Desselecciona tots els episodis
+Enregistraments no mirats
+Prioritat
+Més alta
+Més baixa
+Qualsevol
+Selecciona la prioritat
+Quan hi hagi massa programes per enregistrar a la mateixa hora només s'enregistraran els que tinguin una prioritat més elevada.
+Els enregistraments únics tenen la prioritat més alta
+Atura
+Mostra programa d'enregistrament
+Només aquest programa
+Sèrie completa
+Programa igualment
+Enregistra aquest programa
+Cancel·la aquest enregistrament
+Mira ara
+Enregistrable
+Enregistrament programat
+Conflicte d'enregistrament
+Error d'enregistrament
+S'estan llegint els programes
+Mostra els enregistraments recents
+El DVR necessita més emmagatzematge
+No hi ha prou espai d'emmagatzematge
+Aquest programa no s'enregistrarà perquè no hi ha prou espai d'emmagatzematge. Prova de suprimir algun dels enregistraments actuals.
+Falta el dispositiu d'emmagatzematge
+Vols aturar l'enregistrament?
+El contingut enregistrat es desarà.
+Hi ha un enregistrament programat però té conflictes
+L'enregistrament ha començat però té conflictes
+Què vols enregistrar?
+Quanta estona vols que duri l'enregistrament?
+Ja s'ha programat
+Ja s'ha enregistrat
+Aquest programa ja s'ha enregistrat. El trobaràs a la biblioteca de DVR.
+S'ha programat l'enregistrament de la sèrie
+El programa enregistrat no s'ha trobat.
+Enregistraments relacionats
+S'enregistrarà parcialment per conflictes amb sintonitzador.
+No s'enregistrarà perquè hi ha conflictes amb sintonitzador.
+Configuració de la sèrie
+Inicia enregistrament sèrie
+Atura enregistrament sèrie
+Vols aturar l'enregistrament de la sèrie?
+Els episodis enregistrats continuaran estant disponibles a la biblioteca de DVR.
+En aquest moment no s'està emetent cap episodi en directe.
+Avui
+Demà
+Ahir
+Puntuació
+Programes enregistrats
+en comprovar l'estat del node-i de blocs erronis
+en llegir el node-i de blocs erronis
+en llegir la llista de blocs erronis del fitxer
+en actualitzar el node-i de block erronis
+Ignora l'error
+Força la rescriptura
+blocs de directori buits
+mapa de directori buit
+Nombre de blocs no vàlid
+L'ioctl BLKFLSBUF no està implementat.  No es poden buidar les memòries intermèdies.
+en obrir l'escaneig de nodes-i
+en obtenir el node-i següent
+s'està llegint el superbloc del registre de transaccions
+aatribut ampliat
+Aerror en l'assignació
+bbloc
+Bmapa de bits
+ccompressió
+Centra en conflicte amb algun altre @b del sistema de fitxers
+ddirectori
+Dsuprimit
+eentrada
+fsistema de fitxers
+ggrup
+h@i del @d HTREE
+inode-i
+Iil·legal
+jregistre de transaccions
+llost+found
+Lés un enllaç
+mreclamat múltiplement
+nno vàlid
+oorfe
+pproblema en
+qlímit
+r@i arrel
+shauria de ser
+Ssuper@b
+udesacoblat(s)
+vdispositiu
+xextent
+zmida zero
+fitxer normal
+directori
+dispositiu
+dispositiu d'accés per bloc
+conducte amb nom
+enllaç simbòlic
+sòcol
+bloc indirecte
+bloc indirecte doble
+bloc indirecte triple
+bloc del traductor
+bloc #
+mapa de nodes-i reclamat múltiplement
+s'ha tornat de la funció clonefileblock
+s'està llegint el bloc de directori
+mapa de nodes-i en ús
+mapa de nodes-i de directoris
+mapa de nodes-i de fitxers normals
+mapa de blocs en ús
+s'està obring l'escaneig de nodes-i
+s'està obtenint el node-i següent de l'escaneig
+Pas 1
+mapa de nodes-i malmesos
+node-i en el mapa de nodes-i malmesos
+mapa de nodes-i imagic
+mapa de blocs reclamat més d'un cop
+mapa de blocs d'atributs estesos
+mapa de bits de blocs
+mapa de bits d'i-nodes
+taula d'inodes
+Pas 2
+No es pot continuar.
+mapa de bits de nodes-i creats
+Pic de memòria
+Pas 3
+mapa de bits de la detecció de nodes-i de bucle
+Pas 4
+Pas 5
+(sense pregunta)
+Arregla
+Reubica
+Assigna
+Connecta amb /lost+found
+Crea
+Salva
+Trunca
+Esborra el node-i
+Interromp
+Divideix
+Clona els blocs reclamats múltiplement
+Suprimeix el fitxer
+Suprimeix els missatges
+Esborra l'índex HTree
+Torna a crear
+(CAP)
+ARREGLAT
+ESBORRAT
+REUBICAT
+ASSIGNAT
+EXPANDIT
+RECONNECTAT
+CREAT
+SALVAT
+TRUNCAT
+NODE-I ESBORRAT
+INTERROMPUT
+DIVIDIT
+CONTINUAT
+CLONATS ELS BLOCS RECLAMATS MÚLTIPLEMENT
+FITXER SUPRIMIT
+SUPRIMIT
+ENLLAÇ DESFET
+ÍNDEX HTREE ESBORRAT
+ES TORNARÀ A CREAR
+El @f no té cap UUID; se li'n generarà un.
+El Hurd no és compatible amb la característica de tipus de fitxer.
+El @j extern té múltiples usuaris del @f (no compatible).
+No s'ha trobat el @j extern
+El @j extern té un @S malmès
+El @j extern no és compatible amb aquest @f
+El @S del @j està malmès.
+El senyalador has@j del @S està buit però el @j té dades.
+El @S té el senyalador «needsrecovery» (recuperaciónecessària) activat però no té cap @j.
+El senyalador de recuperació @S està buit però el @j té dades.
+Esborra el @j
+El @f té els senyaladors de característica (feature) activat però és un @f de versió 0.
+El @S del @j té un senyalador de característica de només lectura activat desconegut.
+El @S del @j té un senyalador de característica no compatible activat no compatible.
+La versió del @j no funciona amb aquest e2fsck.
+Executa el @j de totes maneres
+El senyalador de recuperació no està definit en la còpia del @S per la qual cosa s'executarà el @j de totes maneres.
+S'està fent una còpia de seguretat de la informació del @b de nodes-i del @j.
+Resize@i no està habilitat però el @i de redimensió no és zero.
+El @i de redimensió no és vàlid.
+S'afegeix l'apunt a la taula de directoris de @f.
+L'últim @B @g @b no està inicialitzat.
+El senyalador testfs està activat (i està disponible ext4).
+Una o més sumes de verificació del descriptor de @g de @b no són vàlids.
+@S té un bloc MMP no vàlid.
+El @S té un MMP màgic no vàlid.
+Pas 1 comprovació de nodes-i @bs i mides
+el @r no és un @d.
+el @r té el dtime definit (segurament degut a un mke2fs antic).
+El @i de @b erronis té @bs no vàlids.
+S'està utilitzant el @b duplicat o erroni
+Si el @b està realment malmès el @f no es podrà reparar.
+El @i del @j no s'utilitza però conté dades.
+El @j no és un fitxer normal.
+S'han trobat nodes-i que són part d'una llista enllaçada d'orfes malmesa.
+L'@i de @q no s'utilitza però conté dades.
+L'@i de @q és visible per a l'usuari.
+El @i del @b dolent sembla @n.
+Pas 1C escaneig dels directoris dels nodes-i amb @bs reclamats múltiplement
+Pas 1D conciliació dels @bs reclamats múltiplement
+@bs reclamats múltiplement ja reassignats o clonats.
+Pas 2 comprovació de l'estructura del @d
+L'@E @L a «.»
+L'@E @L al @r.
+El nom de l'@E conté caràcters no vàlids.
+L'@E és un duplicat de l'@e «.».L'@E és un duplicat de l'@e «..».El tipus de fitxer de l@E està definit.
+El nom de l'@E és de @z.
+El @f conté fitxers grans però li manca el senyalador LARGEFILE al @S.
+S'ha trobat una @E duplicada.
+Pas 3 comprovació de la connectivitat dels @ds
+El @r no està assignat.
+No hi ha prou espai en el @d @l.
+No s'ha trobat /@l.
+El directori /@l no existeix o està malmès.  No es pot reconnectar.
+el @r no és un @d; s'interromprà.
+No es pot continuar sense un @r.
+Pas 3A optimització dels directoris
+S'estan optimitzant els directoris
+Pas 4 comprovació dels nombres de referències
+Pas 5 comprovació del resum de la informació del @g
+El farciment al final del @B del @i no està habilitat.
+El farciment al final del @B del @b no està habilitat.
+Diferències del @B del @b
+Diferències del @B del @i
+Torna a crear el @j
+IGNORAT
+en iniciar l'exploració dels nodes-i
+en fer l'exploració dels nodes-i
+Truncament
+Neteja
+Histograma profund estès
+No es pot continuar s'interromprà.
+Esteu segur que voleu continuar?
+s'ha interromput la comprovació.
+conté un sistema de fitxers amb errors
+no es va desmuntar correctament
+les característiques del superbloc primari són diferents de les del de la còpia de seguretat
+té la darrera hora de comprovació del sistema de fitxers és en el futur
+es forçarà la comprovació.
+(s'ha ajornat la comprovació; s'està utilitzant la bateria)
+(es comprovarà després del muntatge següent)
+La versió dels atributs ampliats no és vàlida.
+El fitxer descriptor de la informació de completat no és vàlid
+Només es pot especificar una de les opcions -p/-a -n o -y a la vegada.
+L'opció -t no està implementada en aquesta versió de l'e2fsck.
+Les opcions -n i -D no són compatibles.
+Les opcions -n i -c no són compatibles.Les opcions -n i -l/-L no són compatibles.
+No es poden utilitzar les opcions -c i -l/-L al mateix temps.
+mentre es comprovava el bloc MMP
+en provar de configurar el fitxer de desfer
+Error la versió de la biblioteca de l'ext2fs és massa antiga.
+en intentar inicialitzar el programa
+cal un terminal per a les reparacions interactives
+Superbloc no vàlid
+Els descriptors de grup no estan en bon estat
+Pot ser que això sigui una partició de mida zero?
+Pot ser que no existeixi el dispositiu o bé que sigui d'intercanvi?
+Pot ser que el sistema de fitxers l'hagi muntat o obert un altre programa de manera exclusiva?
+Pot ser que no existeixi el dispositiu?
+Hauríeu d'obtenir una versió més recent de l'e2fsck
+Avís s'omet la recuperació del registre de transaccions perquè s'està comprovant el sistema de fitxers en mode de només-lectura.
+Això no és un bon presagi però s'intentarà continuar
+Fet.
+s'ha interromput
+S'està tornant a iniciar l'e2fsck des del començament
+en reiniciar el context
+sS
+nN
+(s/n)
+sí
+no
+es llegeixen el mapes de bits dels blocs i dels nodes-i
+escriptura dels mapes de bits de bloc i de node-i
+INCONGRUÈNCIA INESPERADA El sistema de fitxers que l'fsck està modificant s'està executant.
+fet
+Comprovació amb un patró arbitrari
+durant la cerca
+durant l'execució de ext2fssyncdevice
+en iniciar la iteració per la llista de blocs erronis
+en assignar les memòries intermèdies
+S'està comprovant si hi ha blocs erronis en mode de només-lectura
+S'està comprovant si hi ha blocs erronis (prova de només-lectura)
+Hi ha massa blocs erronis s'interromprà la comprovació
+S'està comprovant si hi ha blocs erronis en mode de lectura-escriptura
+Lectura i comparació
+S'està comprovant si hi ha blocs erronis en mode de lectura-escriptura no destructiu
+S'està comprovant si hi ha blocs erronis (prova en mode de lectura-escriptura no destructiu)
+S'ha interceptat una interrupció; s'iniciaran les tasques de neteja
+s'ha forçat badblocks de totes maneres.  Segurament /etc/mtab sigui incorrecte.
+l'execució de badblocks no és segura!
+s'ha forçat badblocks de totes maneres.
+Només es pot especificar un patródeprova com a màxim en mode de només-lectura
+No es pot utilitzar un patródeprova arbitrari en mode de només-lectura
+en intentar determinar la mida del dispositiu
+últim bloc
+primer bloc
+en crear la llista de blocs erronis en memòria
+Fitxer d'entrada - format incorrecte
+en afegir a la llista de blocs erronis en memòria
+No s'ha pogut assignar la variable del camí a chattrdirproc
+= no és compatible amb - i +
+Cal utilitzar «-v» = - o +
+blocs
+grups de sectors
+Primari
+Còpia de seguretat
+descriptors de grup a
+Blocs GDT reservats a
+descriptor de grup a
+Mapa de bits del bloc a
+taula de nodes-i a
+Blocs liures
+Nodes-i lliures
+en imprimir la llista de blocs erronis
+en llegir el node-i del registre de transaccions
+en obrir el node-i del registre de transaccions
+en llegir el superbloc del registre de transaccions
+El numero màgic del registre de transaccions no és vàlid!
+en llegir el superbloc del registre de transaccions
+No s'han trobat els números màgics del superbloc del registre de transaccions
+No s'ha pogut assignar memòria per a analitzar les opcions
+No s'ha trobat un superbloc del sistema de fitxers vàlid.
+en assignar la memòria intermèdia
+S'ha produït un error a genericwrite()
+Error La mida de la capçalera és més gran que wrtsize
+No s'ha pogut ubicar la capçalera de la memòria intermèdia
+en escriure el superbloc
+en escriure la taula de nodes-i
+en escriure el mapa de bits dels blocs
+en escriure el mapa de bits dels nodes-i
+S'està copiant
+Si atureu ara el procés destruireu el sistema de fitxers interrompeu un altre cop si n'esteu segurs
+en assignar la taula l1
+en assignar la memòria cau l2
+Avís encara hi ha taules a la memòria cau en el moment de posar-la. Es perdran dades i la imatge no serà vàlida.
+en assignar la ext2qcow2image
+en inicialitzar la ext2qcow2image
+Error de programació s'han creat múltiples blocs refcount seqüencials!
+en assignar el mapa de bits dels blocs
+en assignar el mapa de bits xifrat dels blocs
+Escaneig de nodes-i
+No es pot assignar la memòria intermèdia de blocs
+No es poden instal·lar les imatges raw i QCOW2
+error en llegir els mapes de bits
+en obrir el fitxer de dispositius
+en restaurar la taula d'imatges
+l'opció -a només es pot fer servir amb imatges raw o QCOW2.
+Els desplaçaments només es poden fer servir en imatges raw.
+El mode «Moure» només es pot fer servir en imatges raw.
+El mode «Moure» necessita el mode «totes les dades».
+es comprova si està muntat
+La imatge QCOW2 no es pot escriure a la sortida estàndard (stdout)!
+No es pot veure l'estat de la sortida
+L'opció -c només es pot fer servir en mode raw
+L'opció -c no es pot fer servir quan s'escriu a la sortida estàndard (stdout)
+en assignar checkbuf
+L'opció -p només es pot fer servir em mode raw
+e2label no es pot anar al superbloc
+e2label s'ha produït un error en llegir el superbloc
+e2label aquest no és un sistema de fitxers ext2
+Avís l'etiqueta és massa llarga es truncarà.
+e2label no es pot tornar a anar al superbloc
+e2lable s'ha produït un error en escriure el superbloc
+Forma d'ús e2label dispositiu [etiquetanova]
+No s'ha pogut assignar memòria per al sistema de fitxers
+S'estan comprovant tots els sistemes de fitxers.
+Forma d'ús fsck [-AMNPRTV] [ -C [ fd ] ] [-t tipusdesistdefitxers] [opcions-delsistdefitxers] [sistdefitxers ]
+en processar la llista de blocs erronis des del programa
+S'està interrompent.en marcar els blocs erronis com a utilitzats
+Escriptura de les taules de nodes-i
+en crear el directori arrel
+en llegir el node arrel
+en establir la propietat del node-i arrel
+en crear /lost+found
+en cercar el /lost+found
+en expandir el /lost+found
+en establir el node-i de blocs erronis
+en inicialitzar el superbloc del registre de transaccions
+S'estan escrivint zeros al dispositiu de registre de transaccions
+en escriure el superbloc del registre de transaccions
+Còpies de seguretat del superbloc desades en els blocs
+El màxim del canvi de mida ha de ser més gran que la mida del sistema de fitxers.
+El canvi de mida en línia no és compatible amb sistemes de fitxers de versió 0
+Segurament cal que instal·leu un fitxer mke2fs.conf actualitzat.
+S'interromp
+No s'ha pogut assignar memòria per al nou CAMÍ.
+«-R» ja no està suportada feu servir «-E»
+Nombre no vàlid per als blocs per grup
+el nombre de blocs per grup ha de ser múltiple de 8
+Número no vàlid per a la mida de flexbg
+la mida de flexbg ha de ser una potència de 2
+Avís L'opció K ja no està suportada i no s'hauria de fer servir. Feu servir l'opció estesa «-E nodiscard»!
+en malloc el badblocksfilename
+L'opció -t només es pot especificar una vegada
+L'opció -T només es pot especificar una vegada
+sistema de fitxers
+en intentar determinar la mida del sistema de fitxers
+La mida del sistema de fitxers és més gran que la mida aparent del dispositiu.
+No s'ha pogut analitzar la llista de sistemes de fitxers
+en intentar determinar la mida del sector del maquinari
+en intentar determinar la mida física del sector
+en establir la mida del bloc. Massa petita pel dispositiu
+Resolució del fstypes per mke2fs.conf
+Les característiques del sistema de fitxers no són compatibles amb sistemes de fitxers amb versió 0
+Els superblocs dispersos no són compatibles amb sistemes de fitxers amb versió 0
+Els registres de transaccions no són compatibles amb sistemes de fitxers amb versió 0
+«Extents» HA d'estar habilitat per sistemes de fitxers de 64 bits.  Indiqueu -O extents per rectificar-ho.
+La mida del grup de sectors no hauria de ser més petita que la mida del bloc.
+L'especificació de la mida del grup de sectors necessita la característica bigalloc
+Això pot resultar en un funcionament molt pobre. Se suggereix (tornar a) fer les particions.
+No es pot fer servir la característica bigalloc sense la característica «extents»
+La funció reservada per redimensionar blocs en línia no està implementada per sistemes de fitxers no dispersos
+el nombre de blocs per grup està fora de l'interval permès
+La característica flexbg no està habilitada per la qual cosa no és permès especificar la mida de flexbg
+Es descarten els blocs del dispositiu
+ha fallat -
+en configurar el superbloc
+S'ha descartat correctament i es posaran 0s - se salta la neteja de la taula de nodes-i
+S'assignen les taules de grup
+en intentar assignar les taules del sistema de fitxers
+en convertir el mapa de bits del subgrup de sectors
+en reservar blocs per al canvi de mida en línia
+registre de transaccions
+Es salta la creació del registre de transaccions en el mode només súper
+en intentar crear el registre de transaccions
+S'ha produït un error en habilitar la característica de protecció de muntatge múltiple.
+Escriptura de la informació dels superblocs i de comptabilitat del sistema de fitxers
+Forma d'ús mklost+found
+No s'ha trobat el superbloc del registre de transaccions
+en intentar obrir el registre de transaccions extern
+No s'ha trobat l'UUID del sistema de fitxers en el dispositiu del registre de transaccions.
+S'ha suprimit el registre de transaccions
+en llegir els mapes de bits
+en netejar el node-i del registre de transaccions
+en escriure al node-i del registre de transaccions
+(i reinicieu després)
+S'ha produït un en llegir els mapes de bits
+en llegir el bloc MMP.
+Avís L'opció «^quota» substitueix els arguments de «-Q».
+El sistema de fitxers ja té un registre de transaccions.
+Creació del node-i del registre de transaccions
+en intentar crear el fitxer del registre de transaccions
+-o només es pot especificar una vegada
+-O només es pot especificar una vegada
+No s'ha pogut llegit el mapa de bits del node-i
+No s'ha pogut llegit el mapa de bits del bloc
+blocs a moure
+No s'ha pogut assignar el mapa de bits del bloc en fer més gran el node-i
+No hi ha prou espai per fer més gran el node-i
+No s'ha pogut reubicar els blocs en canviar la mida de node-i
+La reducció de la mida del node-i no està implementada
+El sistema de fitxers ja té superblocs dispersos.
+La neteja del senyalador de superbloc dispers no està implementada.
+S'ha produït un error en fer servir clearmmp. S'ha de fer servir amb -f
+La característica quota s'ha de canviar només quan el sistema de fitxers està desmuntat.
+L'UUID s'ha de canviar només quan el sistema de fitxers està desmuntat.
+El format de l'UUID no és vàlid
+S'ha d'actualitzar el registre de transaccions.La mida del node-i només es pot canviar quan el sistema de fitxers està desmuntat.
+No s'ha pogut canviar la mida del node-i
+s'ha forçat el mke2fs de totes maneres. Amb una mica de sort el fitxer /etc/mtab és incorrecte.
+s'ha forçat el mke2fs de totes maneres.
+No s'ha pogut assignar memòria per a analitzar les opcions del registre de transaccions
+El sistema de fitxers és massa petit per a un registre de transaccions
+La mida del registre de transaccions és massa gran per al sistema de fitxers.
+arguments incorrectes
+connecta
+escriu
+llegeix el comptador
+longitud de la resposta incorrecta
+Llista de UUID's
+# Bolcat de l'estensió
+Ampliació de la taula de nodes-i
+Reubicació dels blocs
+Escaneig de la taula de nodes-i
+Actualització de les referències dels nodes-i
+Trasllat de la taula de nodes-i
+Pas desconegut!?
+La mida nova és massa gran per ser expressada en 32 bits
+La longitud del stride no és vàlida
+El nucli no és compatible amb el canvi de mida en línia amb sparsesuper2
+La reducció de mida en línia no està implementada
+El sistema de fitxers no és compatible amb el canvi de mida en línia
+No hi ha prou blocs gdt reservats per fer el canvi de mida
+El nucli no és compatible amb el canvi de mida d'un sistema de fitxers tan gran
+S'ha demanat la interfície de canvi de mida antiga.
+S'ha denegat el permís per a canviar la mida del sistema de fitxers
+En comprovar la compatibilitat amb el canvi de mida en línia
+El nucli no és compatible amb el canvi de mida en línia
+En intentar ampliar el darrer grup
+blocs reservats
+blocs de metadades
+nous blocs de metadades
+No hauria de passar mai!  No hi ha sb al darrer supersparse bg?
+No hauria de passar mai!  olddesc inesperat al supersparse bg?
+Això no hauria de passar mai canvi de mida del node-i malmesa
+El número màgic és incorrecte per l'estructura d'ext2filsys
+El número màgic és incorrecte per l'estructura de badblockslist
+El número màgic és incorrecte per l'estructura de badblocksiterate
+El número màgic és incorrecte per l'estructura d'inodescan
+El número màgic és incorrecte per l'estructura d'iochannel
+El número màgic és incorrecte per l'estructura d'iochannel de unix
+El número màgic és incorrecte per l'estructura d'iomanager
+El número màgic és incorrecte per l'estructura de blockbitmap
+El número màgic és incorrecte per l'estructura d'inodebitmap
+El número màgic és incorrecte per l'estructura de genericbitmap
+El número màgic és incorrecte per l'estructura de l'iochannel de comprovació
+El número màgic és incorrecte per l'estructura de la llista de directoris de blocs
+El número màgic és incorrecte per l'estructura de l'icount
+El número màgic és incorrecte per l'estructura del Powerquest iochannel
+El número màgic és incorrecte per l'estructura de fitxers d'ext2
+El número màgic és incorrecte per l'Ext2 Image Header
+El número màgic és incorrecte per l'estructura de l'iochannel del node-i
+El número màgic és incorrecte per la gestió de «extent» de l'ext4
+El número màgic del superbloc és incorrecte
+La versió del sistema de fitxers és massa alta
+S'intenta escriure en un sistema de fitxers obert com a només de lectura
+No es poden llegir els descriptors de grup
+No es poden escriure els descriptors de grup
+El descriptor de grups està corromput el bloc pel bloc de mapa de bits és incorrecte
+El descriptor de grups està corromput el bloc pel node-i del mapa de bits és incorrecte
+El descriptor de grups està corromput la taula bloc per node-i és incorrecta
+No es pot escriure un mapa de bits de nodes-i
+No es pot llegir un mapa de bits de nodes-i
+No es pot escriure un mapa de bits de blocs
+No es pot llegir un mapa de bits de blocs
+No es pot escriure una taula de nodes-i
+No es pot llegir una taula de nodes-i
+No es pot llegir el següent node-i
+El sistema de fitxers té un bloc de mida inesperada
+El directori d'EXT2 està corromput
+L'intent de llegir un bloc del sistema de fitxers ha resultat en una lectura curta
+L'intent d'escriure un bloc del sistema de fitxers ha resultat en una escriptura curta
+No queda espai lliure al directori
+No s'ha carregat el mapa de bits de nodes-i
+No s'ha carregat el mapa de bits de blocs
+El número del node-i no és correcte
+El número de bloc no és correcte
+S'ha produït un error intern a ext2fsexpanddir
+No hi ha prou espai per construir el sistema de fitxers proposat
+S'ha indicat un número de bloc incorrecte a ext2fsmarkblockbitmap
+S'ha indicat un número de bloc incorrecte a ext2fsunmarkblockbitmap
+S'ha indicat un número de bloc incorrecte a ext2fstestblockbitmap
+S'ha indicat un número de node-i incorrecte a ext2fsmarkinodebitmap
+S'ha indicat un número de node-i incorrecte a ext2fsunmarkinodebitmap
+S'ha indicat un número de node-i incorrecte a ext2fstestinodebitmap
+L'intent de falsejar el final del mapa de bits de blocs ha superat el final real
+L'intent de falsejar el final del mapa de bits de nodes-i ha superat el final real
+S'ha trobat un bloc indirecte incorrecte
+S'ha trobat un bloc doblement indirecte incorrecte
+S'ha trobat un bloc triplement indirecte incorrecte
+Els mapes de bits de blocs no són iguals
+Els mapes de bits de nodes-i no són iguals
+El nom del dispositiu és incorrecte o està mal construït
+Hi ha un grup de blocs al que li falta una taula de nodes-i
+El superbloc d'ext2 està corromput
+S'ha indicat un número de bit genèric incorrecte a ext2fsmarkgenericbitmap
+S'ha indicat un número de bit genèric incorrecte a ext2fsunmarkgenericbitmap
+S'ha indicat un número de bit genèric incorrecte a ext2fstestgenericbitmap
+S'han trobat massa enllaços simbòlics.
+La funció de crida de retorn no contempla aquest cas
+El node-i correspon a un bloc incorrecte a la taula de nodes-i
+Hi ha una o més característiques que no estan implementades per aquest sistema de fitxers
+El sistema de fitxers té característiques només de lectura/n/tque no estan implementades
+El canal de E/S no ha pogut cercar en lectura o escriptura
+L'assignació de memòria ha fallat
+S'ha indicat un argument incorrecte a la llibreria d'ext2
+No s'ha pogut assignar blocs al sistema de fitxers ext2
+No s'ha pogut assignar nodes-i al sistema de fitxers ext2
+El node-i de l'ext2 no és un directori
+La taula té massa referències
+L'ext2lookup no ha trobat el fitxer
+El fitxer s'ha obert com a només de lectura
+No s'ha trobat el bloc de directori de l'ext2
+El directori de l'ext2 ja existeix
+La funció de la llibreria ext2 no està implementada
+L'usuari ha demanat la cancel·lació
+El fitxer de l'ext2 és massa gran
+El registre de transaccions indicat no és un dispositiu de blocs
+El superbloc del registre de transaccions no s'ha trobat
+El registre de transaccions ha de tenir com a mínim 1024 blocs
+No es permet l'ús de la versió de registre de transaccions
+S'ha produït un error en llegir el registre de transaccions extern
+No s'ha trobat el registre de transaccions
+No es permet l'ús del hash de directoris
+El número de bloc de l'atribut extés no és correcte
+No es pot crear el sistema de fitxers amb el nombre de nodes-i demanat
+La instantània de l'E2image no es fa servir
+Hi ha massa blocs descriptors de grup reservats
+El canvi de mida del node-i està corromput
+S'ha provat d'establir el bmap del bloc amb el bloc indirecte que falta
+TDB Correcte
+TDB Base de dades corrompuda
+TDB Error de E/S
+TDB Error de bloqueig
+TDB Sense memòria
+TDB El registre ja existeix
+TDB El bloqueig ja existeix amb altres claus
+TDB El paràmetre no és valid
+TDB El registre no existeix
+TDB No es pot escriure
+La llista de blocs de directori de l'ext2fs està buida
+S'intenta modificar un mapatge de blocs a través d'un iterador de blocs de només lectura
+El número màgic no és correcte pel camí d'«extent» de l'ext4 desat
+El número màgic no és correcte pel mapa de bits de 64 bits genèric
+El número màgic no és correcte pel mapa de bits de blocs de 64 bits
+El número màgic no és correcte pel mapa de bits de nodes-i de 64 bits
+El número màgic no és correcte --- RESERVAT13
+El número màgic no és correcte --- RESERVAT14
+El número màgic no és correcte --- RESERVAT15
+El número màgic no és correcte --- RESERVAT16
+El número màgic no és correcte --- RESERVAT17
+El número màgic no és correcte --- RESERVAT18
+El número màgic no és correcte --- RESERVAT19
+La capçalera estesa està corrompuda
+L'índex estès està corromput
+L'«extent» està corromput
+No queda espai lliure al mapa estès
+El node-i no fa servir «extents»
+No hi ha «extent» «següent»
+No hi ha «extent» «anterior»
+No hi ha «extent» «amunt»
+No hi ha «extent» «avall»
+No hi ha node actual
+No es permet l'operació Ext2fs
+No hi ha espai per inserir «extent» al node
+La divisió produirà un node buit
+No s'ha trobat l'«extent»
+No es permet la operació per nodes-i que continguin «extents»
+La longitud de l'«extent» no és vàlida
+El canal de E/S no permet números de bloc de 64 bits
+No es pot comprovar si el sistema de fitxers està muntat perquè falta el fitxer mtab
+El sistema de fitxers és massa gran per fer servir mapes de bits antics
+MMP número màgic no vàlid
+MMP dispositiu actualment actiu
+MMP el número de bloc supera el rang del sistema de fitxers
+MMP s'ha produït una operació desconeguda
+MMP el sistema de fitxers encara s'està fent servir
+MMP no s'ha pogut obrir amb ODIRECT
+La mida del descriptor de grup de blocs no és correcta
+La suma de verificació del node-i no coincideix amb el node-i
+La suma de verificació del mapa de bits del node-i no coincideix amb el mapa de bits
+La suma de verificació del bloc «extent» no coincideix amb el bloc «extent»
+El bloc de directoris no té espai per la suma de verificació
+La suma de verificació del bloc de directoris no coincideix amb el bloc de directoris
+La suma de verificació del bloc d'atributs estesos no coincideix amb el bloc
+La suma de verificació del superbloc no coincideix amb el superbloc
+L'algorisme de la suma de verificació és desconegut
+El fitxer ext2 ja existeix
+Versió 0.0 del perfil
+El valor màgic de profilenode és incorrecte
+No s'ha trobat la secció de perfils
+No s'ha trobat la relació de perfils
+Intent d'afegir una relació amb un node que no és una secció
+Una capçalera de secció de perfils té un valor diferent de zero
+Hi ha una llista enllaçada incorrecta a les estructures de perfil
+Hi ha un nivell de grup incorrecte a les estructures de perfil
+Hi ha un punter pare incorrecte a les estructures de perfil
+Hi ha un valor màgic incorrecte a la variable d'iteració de perfils
+No es pot establir un valor al node de la secció
+S'ha indicat un argument incorrecte a la llibreria de perfils
+S'ha intentat modificar un perfil de només lectura
+La capçalera de la secció de perfils no és al nivell superior
+Hi ha un error de sintaxi a la capçalera de la secció de perfils
+Hi ha un error de sintaxi a la relació de perfils
+Hi ha una clau de tancament de més al perfil
+Falta una clau d'obertura al perfil
+Hi ha un valor màgic incorrecte a profilet
+Hi ha un valor màgic incorrecte a profilesectiont
+No es permet la iteració a través de les seccions del nivell més alt
+L'objecte profilesection no és vàlid
+No hi ha més seccions
+El nameset indicat a la rutina de consulta no és correcte
+No hi ha cap fitxer de perfils obert
+El valor màgic de profilefilet no és correcte
+No s'ha pogut obrir el fitxer de perfils
+La secció ja existeix
+El valor booleà no és vàlid
+El valor enter no és vàlid
+El valor màgic de profilefiledatat no és correcte
+Sembla que el dispositiu no existeix. Assegureu-vos que l'heu especificat correctament
+Emmagatzematge del calendari
+Predeterminat
+Informació del calendari
+No hi ha cap calendari
+Calendari
+Suprimeix ara
+Estàs a punt de 1) fer una còpia de la base de dades del teu calendari a l'emmagatzematge USB/targeta SD llegible per qualsevol aplicació i 2) d'enviar-la per correu electrònic. Recorda suprimir-la tan bon punt l'hagis copiat correctament al dispositiu o s'hagi rebut el correu electrònic.
+Selecciona un programa per enviar el fitxer
+Calendari Db adjunt
+La base de dades del meu calendari amb totes les meves cites i informació personal es troba adjunta. Tracta-la amb cura.
+Alertes d'emergència
+La configuració de difusió mòbil no està disponible per a aquest usuari.No hi ha cap alerta anterior
+Suprimeix les difusions
+Opcions del missatge
+Mostra els detalls
+Suprimeix la difusió
+Detalls de l'alerta
+Vols suprimir aquesta missatge de difusió?
+Vols suprimir tots els missatges de difusió rebuts?
+Avís de terratrèmol
+Avís de tsunami
+Avís de terratrèmols i tsunamis
+Missatge de prova d'ETWS
+Avís d'emergències
+Alerta presidencial
+Alerta d'emergències extrema
+Alerta d'emergències greu
+Segrest de menors (Alerta Amber)
+Prova mensual obligatòria
+Alerta d'emergències (exercici)
+Alerta d'emergències (operador)
+Missatges de difusió
+Missatge de seguretat pública
+Prova local o estatal
+Alerta d'emergències
+Alertes
+Alertes d'emergència
+Permet les alertes
+Vull rebre notificacions d'emergència
+So dels recordatoris d'alertes
+Historial d'alertes d'emergència
+Preferències de les alertes
+Difusions de prova de l'ETWS
+Difusions de prova del sistema d'avís de terratrèmols i tsunamis
+Amenaces extremes
+Amenaces extremes per a la vida i la propietat
+Amenaces greus
+Amenaces greus per a la vida i la propietat
+Alertes AMBER
+Avisos d'emergència per segrest de menors
+Missatges d'alerta
+Avisa'm quan hi hagi amenaces de seguretat imminents
+Missatges de seguretat pública
+Accions recomanades que poden salvar vides o propietats
+Proves locals i estatals
+Vull rebre missatges de prova de les autoritats locals i estatals
+Avisa'm quan hi hagi esdeveniments potencialment mortals
+Prova mensual obligatòria
+Vull rebre missatges de prova del sistema d'alertes de seguretat
+Vibració
+Utilitza el volum màxim
+Ignora altres preferències de volum i el mode No molestis
+Difusions d'informació actualitzada de la zona
+Mostra informació actualitzada a l'estat de la targeta SIM
+Opcions per a desenvolupadors
+Categoria de l'alerta
+Geofísiques
+Meteorològiques
+Seguretat
+Seguretat
+Rescat
+Incendis
+Salut
+Medi ambient
+Transport
+Infraestructures
+Químiques/biològiques/nuclears/d'explosió
+Tipus de resposta
+Refugia't
+Cal evacuar
+Cal preparar-se
+Executa
+Fes un seguiment
+Evita
+Avalua
+Gravetat
+Extrema
+Important
+Urgència
+Immediata
+Esperada
+Probabilitat
+Complerta
+Probable
+Rebut
+Alertes noves
+Mostra un quadre de diàleg de desactivació després de la primera alerta (tret d'alerta presidencial).
+Mostra el diàleg de desactivació
+Actualment reps Alertes d'emergència. Vols continuar rebent-ne?
+Una vegada
+Cada 2 minuts
+Cada 5 minuts
+Cada 15 minuts
+Amèrica
+Europa
+Àfrica
+Àsia
+Austràlia
+Pacífic
+15 segons
+30 segons
+1 minut
+2 minuts
+5 minuts
+Mai
+Immediatament
+5 segons
+Petita
+Gran
+Més grans possible
+S'està cercant
+S'està connectant
+S'està autenticant
+S'està obtenint l'adreça IP
+Connectat
+Suspesa
+S'està desconnectant
+Desconnectat
+Incorrecte
+Bloquejada
+S'està evitant temporalment una connexió feble
+Botó per prémer
+PIN de l'altre dispositiu
+PIN des del dispositiu
+Convidat
+Fora de l'abast
+Sempre visible
+Dolenta
+Suficient
+Bona
+Excel·lent
+30 darrers dies
+Defineix el cicle d'ús
+Temps d'ús
+Darrer ús
+Nom de l'aplicació
+PEAP
+TLS
+TTLS
+PWD
+MSCHAPV2
+GTC
+AKA
+AKA'
+PAP
+MSCHAP
+DHCP
+Estàtic
+Autoconfig. serv. inter.CHAP
+PAP o CHAP
+IPv4
+IPv6
+IPv4/IPv6
+No especificat
+LTE
+HSPAP
+HSPA
+HSUPA
+HSDPA
+UMTS
+EDGE
+GPRS
+eHRPD
+EVDOB
+EVDOA
+EVDO0
+1xRTT
+IS95B
+IS95A
+SPN
+IMSI
+GID
+Emmagatzematge intern del dispositiu
+Targeta SD extraïble
+Deixa que ho decideixi el sistema
+Personal
+Missatges
+Multimèdia
+ubicació aproximada
+ubicació precisa
+GPS
+vibració
+lectura de contactes
+modifica els contactes
+llegeix el registre de trucades
+modifica el registre de trucades
+lectura del calendari
+modifica el calendari
+exploració de Wi-Fi
+notificació
+exploració de cel·la
+trucada
+llegeix SMS
+escriu SMS
+rep SMS
+rep SMS d'emergència
+rep MMS
+rep insercions WAP
+envia SMS
+llegeix SMS ICC
+escriu SMS ICC
+modifica la configuració
+dibuixa a sobre
+accedeix a les notificacions
+càmera
+grava l'àudio
+reprodueix l'àudio
+llegeix el porta-retalls
+modifica el porta-retalls
+botons multimèdia
+enfocament de l'àudio
+volum general
+volum de la veu
+volum del to
+volum de multimèdia
+volum de l'alarma
+volum de notificació
+volum del Bluetooth
+mantén actiu
+supervisa la ubicació
+fes un seguiment de la precisió de la ubicació
+obtenir estadístiques d'ús
+silencia / deixa de silenciar el micròfon
+mostrar l'avís
+projectar fitxers multimèdia
+activar la VPN
+fons de pantalla d'escriptura
+estructura d'assistència
+captura de pantalla d'assistència
+consultar l'estat del telèfon
+afegir missatges de veu
+utilitzar el protocol SIP
+processar les trucades sortints
+empremta digital
+sensors corporals
+consultar les difusions mòbils
+ubicació fictícia
+consultar l'emmagatzematge
+fer canvis a l'emmagatzematge
+activar la pantalla
+obtenir comptes
+executar en segon pla
+volum d'accessibilitat
+Vibració
+Lectura de contactes
+Modifica els contactes
+Llegeix el registre de trucades
+Modifica el registre de trucades
+Lectura del calendari
+Modifica el calendari
+Notificació de la publicació
+Trucada
+Llegeix SMS/MMS
+Escriu SMS/MMS
+Rep SMS/MMS
+Envia SMS/MMS
+Modifica la configuració
+Dibuixa a sobre
+Accedeix a les notificacions
+Grava l'àudio
+Reprodueix l'àudio
+Llegeix el porta-retalls
+Modifica el porta-retalls
+Botons de multimèdia
+Enfocament de l'àudio
+Volum general
+Volum de la veu
+Volum del to
+Volum de multimèdia
+Volum de l'alarma
+Volum de notificació
+Volum del Bluetooth
+Mantén actiu
+Obtenir estadístiques d'ús
+Silencia / deixa de silenciar el micròfon
+Mostrar l'avís
+Projectar fitxers multimèdia
+Activar la VPN
+Fons de pantalla d'escriptura
+Estructura d'assistència
+Captura de pantalla d'assistència
+Consultar l'estat del telèfon
+Afegir missatges de veu
+Utilitzar el protocol SIP
+Processar les trucades sortints
+Empremta digital
+Sensors corporals
+Consultar les difusions mòbils
+Ubicació fictícia
+Consultar l'emmagatzematge
+Fer canvis a l'emmagatzematge
+Activar la pantalla
+Obtenir comptes
+Executar en segon pla
+Volum d'accessibilitat
+Breu
+Mitjà
+Llarg
+Sans-serif
+Sans-serif condensada
+Sans serif monoespaiada
+Serif
+Serif monoespaiada
+Informal
+Cursiva
+Versaletes
+Molt petit
+Molt gran
+Contorn
+Ombra
+Elevat
+Enfonsat
+Valors predeterminats
+Blanc sobre negre
+Negre sobre blanc
+Groc sobre negre
+Groc sobre blau
+VPN de PPTP
+VPN L2TP/IPSec amb claus prèviament compartides
+VPN L2TP/IPSec amb certificats
+VPN IPSec amb claus prèviament compartides i autenticació Xauth
+VPN IPSec amb certificats i autenticació Xauth
+VPN IPSec amb certificats i autenticació híbrida
+S'està inicialitzant
+Temps d'espera esgotat
+Pregunta-ho
+No permetis mai
+Permet sempre
+Moderada
+Baixa
+Molt baixa
+Persistent
+Activitat principal
+Important (primer pla)
+Important (fons)
+Pesat
+Servei (en execució)
+Servei (reinici)
+Receptor
+Inici
+Darrera activitat
+A la memòria cau (activitat)
+A la memòria cau (client de l'activitat)
+A la memòria cau (buit)
+Verd blavós
+Blau
+Anyil
+Porpra
+Rosa
+Vermell
+Detecta automàticament
+Tracta com a Wi-Fi amb límit de dades
+Tracta com a Wi-Fi sense límit de dades
+Fes servir una adreça MAC aleatòria (opció predeterminada)
+Fes servir l'adreça MAC del dispositiu
+Fosc
+Clar
+Depura
+Detalla
+Només local
+Mode GSM/WCDMA preferit
+Només GSM
+Només WCDMA
+Mode GSM/WCDMA automàtic
+Mode CDMA/EvDo automàtic
+Mode CDMA sense EvDo
+Només EvDo
+CDMA/EvDo/GSM/WCDMA
+CDMA + LTE/EvDo
+GSM/WCDMA/LTE
+Global
+LTE/WCDMA
+Només TDSCDMA
+TDSCDMA/WCDMA
+LTE/TDSCDMA
+TDSCDMA/GSM
+LTE/TDSCDMA/GSM
+TDSCDMA/GSM/WCDMA
+LTE/TDSCDMA/WCDMA
+LTE/TDSCDMA/GSM/WCDMA
+TDSCDMA/CDMA/EvDo/GSM/WCDMA
+LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA
+RUIM/SIM
+NV
+LTE/CDMA
+LTE/GSM/UMTS
+Ara ja ets un desenvolupador
+No és necessari ja ets un desenvolupador.Primer activa les opcions per a desenvolupadors.
+Connexions sense fil i xarxes
+Sistema
+En servei
+Sense servei
+Només trucades d'emergència
+Senyal mòbil desactivat
+Itinerància
+No està en itinerància
+Desactiva USB
+Esborra l'emmagatzematge USB
+Amplia o redueix la mida del text de la pantalla.
+Redueix
+Amplia
+Text de mostra
+El meravellós mag d'Oz
+Capítol 11 La meravellosa Ciutat Maragda d'Oz
+Emmagatzematge USB
+Bluetooth
+Visible per a tots els dispositius Bluetooth propers
+Ocult per a altres dispositius Bluetooth
+Només visible per als dispositius vinculats
+Temps de visibilitat
+Bloqueja el marcatge per veu
+Impedeix l'ús del marcador Bluetooth quan la pantalla estigui bloquejada
+Dispositius Bluetooth
+Nom del dispositiu
+Configuració del dispositiu
+Configuració del perfil
+No s'ha definit cap nom; s'utilitza el nom del compte
+Cerca dispositius
+Canvia el nom del dispositiu
+Vols desconnectar el dispositiu?
+Desconnecta
+No tens permís per canviar la configuració del Bluetooth.
+Vincula un dispositiu nou
+Emissió
+Dispositiu Bluetooth sense nom
+No s'ha trobat cap dispositiu Bluetooth a prop.
+Sol·licitud de vinculació de Bluetooth
+Sol·licitud de vinculació
+Fitxers rebuts
+Fitxers rebuts per Bluetooth
+Tria un dispositiu Bluetooth
+Una aplicació vol activar el Bluetooth
+Una aplicació vol desactivar el Bluetooth
+Una aplicació vol que la tauleta sigui visible per a altres dispositius Bluetooth. Pots canviar aquesta opció més endavant a la configuració del Bluetooth.
+Una aplicació vol activar el Bluetooth i que la tauleta sigui visible per a altres dispositius. Pots canviar aquesta opció més endavant a la configuració del Bluetooth.
+S'està activant el Bluetooth
+S'està desactivant el Bluetooth
+Sol·licitud de connexió de Bluetooth
+Sol·licitud d'accés a la llibreta de telèfons
+No m'ho tornis a preguntar
+Sol·licitud d'accés al missatge
+Sol·licitud d'accés a la SIM
+Visible com a ^1 per a altres dispositius
+Activa el Bluetooth per connectar-te a altres dispositius.
+Els teus dispositius
+Permet que la tauleta es comuniqui amb dispositius Bluetooth que estiguin a prop
+Desactiva baixada de maquinari (BT A2DP)
+Vols reiniciar-lo?
+Has de reiniciar el dispositiu per canviar aquesta opció.
+Reinicia
+Dispositius multimèdia disponibles
+Dispositius de trucada disponibles
+Connectats actualment
+Dispositius desats
+El Bluetooth s'activarà per vincular
+Preferències de connexió
+Dispositius connectats prèviament
+Connectats prèviament
+S'ha activat el Bluetooth
+Mostra-ho tot
+Data i hora
+Selecció de la zona horària
+Envia broadcast
+Action
+Inicia activity
+Resource
+Servidor intermediari
+Port del servidor intermediari
+Omet el servidor intermediari per a
+Restauració del valors predeterminats
+Nom d'amfitrió del servidor intermediari
+Atenció
+El nom d'amfitrió que has escrit no és vàlid.
+La llista d'exclusions que has escrit no té un format adequat. Introdueix una llista separada per comes de dominis exclosos.
+Has de completar el camp del port.
+El camp del port ha de ser buit si el camp de l'amfitrió és buit.
+El port que has escrit no és vàlid.
+El navegador utilitza un servidor intermediari HTTP però pot ser que la resta d'aplicacions no.
+URL PAC
+Fer ping a IPv4 de nom d'amfitrió (www.google.com)
+Fer ping a IPv6 de nom d'amfitrió (www.google.com)
+Prova de client HTTP
+Executa la prova de ping
+Els canvis s'aplicaran quan es torni a connectar el cable USB.
+Activa l'emmagatzematge massiu USB
+Total de bytes
+Emmagatzematge USB no instal.
+Bytes disponibles
+Emm. USB com dis. d'emm. mass.
+Ara és segur retirar l'emmagatzematge USB.Emmag. USB retirat durant ús.
+Bytes utilitzats
+Cercant fitxers a USB
+Emm. USB inst. només lectura.Omet
+Idiomes
+Afegeix un idioma
+El text es mostrarà en un altre idioma.
+No es poden suprimir tots els idiomes
+Conserva almenys un idioma preferit
+És possible que no estigui disponible en algunes aplicacions
+Mou amunt
+Mou avall
+Mou a la part superior
+Mou a la part inferior
+Suprimeix l'idioma
+Selecció de l'activitat
+Informació del dispositiu
+Pantalla
+Configuració del servidor intermediari
+Oblida
+Drecera de configuració
+Mode d'avió
+Gestiona la Wi-Fi el Bluetooth el mode d'avió les xarxes mòbils i les VPN
+Dades mòbils
+Permet les trucades
+Missatges SMS
+Permet l'ús de dades amb una xarxa mòbil
+Permet ús dades en itinerància
+Connecta't a serveis de dades en itinerància
+Has perdut la connectivitat de dades perquè has abandonat la xarxa domèstica i la itinerància de dades està desactivada.
+Activa-la
+Aquest servei pot generar càrrecs elevats.
+Permetre la itinerància de dades?
+Selecció d'operador
+Tria un operador de xarxa
+Estableix la data i l'hora
+Defineix la data l'hora la zona horària i els formats
+Utilitza l'hora proporcionada per la xarxa
+Utilitza la zona horària proporcionada per la xarxa
+Utilitza la configuració regional predeterminada
+Format de 24 hores
+Format de 24 hores
+Hora
+Format d'hora
+Zona horària
+Selecciona la zona horària
+Cerca la regió
+Regió
+Selecciona compensació d'UTC
+Horari d'estiu
+Hora estàndard
+Selecciona per regió
+Selecciona per compensació UTC
+Bloqueja automàticament
+Mostra informació del propietari a la pantalla de bloqueig
+Missatge en pantalla de bloqueig
+Activa els widgets
+Desactivada per l'administrador
+Mostra l'opció Bloqueig de seguretat
+Mostra l'opció del botó d'engegada que desactiva Smart Lock el desbloqueig amb l'empremta digital i les notificacions a la pantalla de bloqueig
+Desbl. més llarg per a agents de confiança
+Si s'activa els agents de confiança mantindran el dispositiu desbloquejat durant més temps però ja no podran desbloquejar un dispositiu bloquejat.
+Bloquejar pantalla si no és de confiança
+Si s'activa aquesta opció el dispositiu es bloquejarà quan l'últim agent de confiança deixi de ser-ho
+P. ex. Android del Lluís.Info. de l'usuari
+Mostra la inf. de perfil a la pantalla de bloqueig
+Informació de perfil
+Utilitza la ubicació
+Encriptació i credencials
+Telèfon encriptat
+El telèfon no està encriptat
+Pantalla de bloqueig
+Què es mostra
+Defineix La meva ubicació el desbloqueig de la pantalla el bloqueig de la targeta SIM i el bloqueig de l'emmagatzematge de credencials
+Defineix La meva ubicació el desbloqueig de pantalla i el bloqueig d'emmagatzematge de credencials
+Privadesa
+Estat de seguretat
+Bloqueig de pantalla Desbloqueig facial
+Bloqueig de pantalla i empremta digital
+Bloqueig de pantalla
+Cara afegida
+Toca per configurar l'autenticació facial
+Autenticació facial
+Utilitza la config. d'accessibilitat
+Desbloqueja amb la cara
+Utilitza l'autenticació facial
+Fes servir la cara per desbloquejar el telèfon autoritzar compres o iniciar la sessió a les aplicacions.
+Fes servir la cara per desbloquejar el telèfon autoritzar compres o iniciar la sessió a les aplicacions
+Centra la cara dins del cercle
+Has afegit el nombre màxim de cares
+No es poden afegir més cares
+No s'ha completat el registre
+S'ha esgotat el temps d'espera per registrar la cara. Torna-ho a provar.
+El registre de la cara no ha funcionat.
+Sembla que ha anat bé i ja està tot llest.
+Utilitza la cara per
+Desbloqueja el dispositiu
+Inici de sessió i pagaments
+Obre els ulls per desbloquejar
+Els ulls han d'estar oberts durant l'autenticació facial
+Requereix sempre confirmació
+En autenticar en aplicacions requereix sempre confirmació
+Suprimeix les dades facials
+Gest. empremtes digit.Util. empr. digit. per
+Afegeix una empremta digital
+bloqueig de pantalla
+Desbloqueig amb empremta
+Utilitzar l'empremta digital
+Ometre l'empremta digital?
+Només calen un parell de minuts per configurar l'empremta digital. Si omets aquest pas pots afegir-la més endavant a Configuració.
+Ometre bloqueig de pantalla?
+Les funcions de protecció del dispositiu no s'activaran. Si perds la tauleta te la roben o se'n restableixen les dades de fàbrica no podràs evitar que altres persones la utilitzin.
+Les funcions de protecció del dispositiu no s'activaran. Si perds la tauleta o te la roben no podràs evitar que altres persones la utilitzin.
+Omet de totes maneres
+Torna
+Toca el sensor
+Es troba a la part posterior del telèfon. Utilitza el dit índex.
+Il·lustració amb la ubicació del sensor d'empremtes digitals i de dispositiu
+Col·loca el dit al sensor i aixeca'l quan notis una vibració
+Aixeca el dit i toca de nou
+Continua aixecant el dit per afegir les diferents parts de l'empremta digital
+Empremta digital afegida
+Quan vegis aquesta icona podràs fer servir l'empremta digital per identificar-te o aprovar compres
+Fes-ho més tard
+Sortir de configuració d'empremta digital?
+Has triat utilitzar la teva empremta digital per desbloquejar el telèfon. Si omets aquest pas ara hauràs de fer aquesta configuració més endavant. Aquest procés només triga un parell de minuts.
+Configura el bloqueig de pantalla
+Això no és el sensor
+Toca el sensor situat a la part posterior amb el dit índex.
+S'ha esgotat el temps d'espera per inscriure l'empremta digital. Torna-ho a provar.
+El registre de l'empremta digital no ha funcionat. Torna-ho a provar o fes servir un altre dit.
+Afegeix-ne una altra
+A més de fer servir l'empremta digital per desbloquejar el telèfon també la pots fer servir per autoritzar compres i permetre l'accés a determinades aplicacions. Més informació
+Aixeca el dit i a continuació torna a tocar el sensor
+Has afegit el nombre màxim d'empremtes digitals
+No es poden afegir més empremtes digitals
+Suprimir les empremtes digitals?
+Vols suprimir aquesta empremta digital?
+No podràs fer servir les empremtes digitals per desbloquejar el telèfon autoritzar compres ni iniciar la sessió en aplicacions
+No podràs utilitzar les empremtes digitals per desbloquejar el teu perfil professional autoritzar compres ni iniciar la sessió en aplicacions de la feina
+Sí suprimeix
+Encriptació
+Encriptació de la tauleta
+Encriptat
+Carrega la bateria i torna-ho a provar.
+Endolla el carregador i torna-ho a provar.
+No hi ha cap PIN ni cap contrasenya de bloqueig de la pantalla
+Has d'establir un PIN o una contrasenya a la pantalla de bloqueig per poder començar l'encriptació.
+Encriptar el dispositiu?
+L'operació d'encriptació no es pot desfer i si l'interromps perdràs dades. L'encriptació tarda una hora com a mínim i la tauleta es reiniciarà diverses vegades durant aquest procés.
+Encriptació
+Espera mentre s'encripta la tauleta. Temps restant ^1
+Per desbloquejar la tauleta apaga-la i torna-la a engegar.
+Advertiment si proves de desbloquejar el dispositiu ^1 vegades més de manera incorrecta se n'esborraran totes les dades.
+Escriu la contrasenya
+S'ha produït un error en encriptar
+No s'ha pogut desencriptar
+Canvia el mètode d'introducció
+Protegeix el teu telèfon
+Configura un bloqueig per protegir la tauleta
+Afegeix una empremta digital per desbloquejar
+Bloqueig de pantalla
+Tria bloq. profess.Protegeix la tauleta
+Defineix un bloqueig de pantalla alternatiu per a més seguretat
+Activa les funcions de protecció del dispositiu per impedir que altres persones utilitzin aquesta tauleta sense permís. Tria el bloqueig de pantalla que vulguis utilitzar.
+Tria un mètode de bloqueig de pantalla alternatiu
+Opcions de bloqueig de pantalla
+Bloq. perfil profess.Canvi pantalla bloq.Canvia o desactiva la seguretat de contrasenyes PIN o patrons
+Trieu un mètode per bloquejar la pantalla
+Llisca
+No hi ha seguretat
+Patró
+Nivell de seguretat mitjà
+PIN
+Nivell de seguretat mitjà o alt
+Nivell de seguretat alt
+Ara no
+Bloqueig de pantalla actual
+Empremta digital + patró
+Empremta digital + PIN
+Empremta digital + contrasenya
+Continua sense l'empremta digital
+Pots desbloquejar el telèfon amb l'empremta digital. Per motius de seguretat per utilitzar aquesta opció cal un bloqueig de pantalla alternatiu.
+Autenticació facial + patró
+Autenticació facial + PIN
+Autenticació facial + contrasenya
+Continua sense autenticació facial
+Pots desbloquejar el telèfon amb l'autenticació facial. Per motius de seguretat cal un bloqueig de pantalla alternatiu per utilitzar aquesta opció.
+Desact. per l'admin. política d'encrip. o emmagat. creden.Quan hagis configurat un bloqueig de pantalla també pots configurar la teva empremta digital a Configuració gt; Seguretat.
+Desactiva el bloqueig de pantalla
+Vols suprimir la protecció del dispositiu?
+Vols suprimir la protecció del perfil?
+Les funcions de protecció del dispositiu no funcionaran sense el teu patró.
+Les funcions de protecció del dispositiu no funcionaran sense el teu PIN.
+Les funcions de protecció del dispositiu no funcionaran sense la teva contrasenya.
+Les funcions de protecció del dispositiu no funcionaran sense el teu bloqueig de pantalla.
+Les funcions de protecció del perfil no funcionen sense patró.
+Les funcions de protecció del perfil no funcionen sense PIN.
+Les funcions de protecció del perfil no funcionen sense contrasenya.
+Les funcions de protecció del perfil no funcionen sense bloqueig de pantalla.
+Canvia el patró de desbloqueig
+Canvia el PIN de desbloqueig
+Canvia la contrasenya de desbloqueig
+Se suprimiran les teves dades
+Si tornes a introduir un patró incorrecte se suprimiran les dades del dispositiu
+Si tornes a introduir un PIN incorrecte se suprimiran les dades del dispositiu
+Si tornes a introduir una contrasenya incorrecta se suprimiran les dades del dispositiu
+Si tornes a introduir un patró incorrecte se suprimirà l'usuari
+Si tornes a introduir un PIN incorrecte se suprimirà l'usuari
+Si tornes a introduir una contrasenya incorrecta se suprimirà l'usuari
+Si tornes a introduir un patró incorrecte se suprimirà el perfil professional i les dades que contingui
+Si tornes a introduir un PIN incorrecte se suprimirà el perfil professional i les dades que contingui
+Si tornes a introduir una contrasenya incorrecta se suprimirà el perfil professional i les dades que contingui
+Has superat el nombre d'intents incorrectes permesos. Se suprimiran les dades del dispositiu.
+Has superat el nombre d'intents incorrectes permesos. Se suprimirà l'usuari.
+Has superat el nombre d'intents incorrectes permesos. Se suprimirà el perfil professional i les dades que contingui.
+Només pot contenir dígits del 0 al 9
+L'administrador del dispositiu no permet que s'utilitzi un PIN recent
+L'administrador de TI ha bloquejat els PIN més comuns. Prova un altre PIN.
+No pot incloure un caràcter no vàlid
+Ha de contenir com a mínim una lletra
+Ha de contenir com a mínim un dígit
+Ha de contenir com a mínim un símbol
+L'administrador del dispositiu no permet que s'utilitzi una contrasenya recent
+L'administrador de TI ha bloquejat les contrasenyes més comunes. Prova una altra contrasenya.
+No es permet cap seqüència de dígits ascendents descendents ni repetits
+Confirma
+S'ha completat la configuració.
+Aplicacions d'administració del dispositiu
+No hi ha aplicacions actives
+Agents de confiança
+Per utilitzar aquesta opció has de configurar un bloqueig de pantalla
+Activa el Bluetooth
+Gestiona les connexions defineix el nom i la visibilitat del dispositiu
+Codi de vinculació per Bluetooth
+Escriu el codi de vinculació i a continuació prem la tecla de retorn.El PIN conté lletres o símbols
+En general 0000 o 1234
+Ha de tenir 16 dígits
+Pot ser que també hagis d'introduir aquest PIN a l'altre dispositiu.
+Pot ser que també hagis d'introduir aquesta contrasenya a l'altre dispositiu.
+Permet l'accés als contactes i a l'historial de trucades
+Dispositiu vinculat
+Connexió a Internet
+Teclat
+Contactes i historial de trucades
+Vols vincular amb aquest dispositiu?
+Vols compartir l'agenda telefònica?
+Dispositius disponibles
+No hi ha cap dispositiu disponible.Connecta
+Vincula i connecta
+Dessincronitza
+Desconnecta i dessincronitza
+Opcions
+Configuració avançada
+Config. avançada del Bluetooth
+Amb el Bluetooth activat el dispositiu pot connectar amb més dispositius Bluetooth a prop.
+Per millorar la precisió de la ubicació les aplicacions i els serveis del sistema poden continuar detectant els dispositius Bluetooth. Pots canviar aquesta opció a la LINKBEGINconfiguració de cercaLINKEND.
+No s'ha pogut connectar. Torna-ho a provar.
+Detalls del dispositiu
+Vols que s'oblidi el dispositiu?
+Oblida el dispositiu
+Connecta't a
+Dispositiu Bluetooth vinculat
+Connecta't al dispositiu Bluetooth
+S'utilitza per
+Permet transf. fitxers entrants
+Connectat per accedir a Internet
+Compartint la connexió local amb el dispositiu
+Configuració de la base
+Ús de la base per a àudio
+Com a telèfon amb altaveu
+Per a música i contingut multimèdia
+Recorda la configuració
+Nombre màxim de dispositius d'àudio Bluetooth connectats
+Selecciona el nombre màxim de dispositius d'àudio Bluetooth connectats
+Emet
+Activa pantalla sense fil
+No s'ha trobat cap dispositiu a prop.
+En ús
+No disponible
+Mostra la configuració
+Opcions de la pantalla sense fil
+24 GHz
+5 GHz
+Toca aquí per iniciar la sessió a la xarxa
+Verifica el bytecode d'apps depurables
+Permet que ART verifiqui el bytecode de les aplicacions depurables
+NFC
+Permet l'intercanvi de dades quan la tauleta toqui un altre dispositiu
+Activa l'NFC
+L'NFC permet que aquest dispositiu pugui intercanviar dades amb altres dispositius o objectius propers com ara terminals de pagament lectors d'accés o anuncis i etiquetes interactius.
+Protegeix NFC
+Permet el pagament amb NFC i l'ús en transport públic només quan la pantalla estigui desbloquejada
+Android Beam
+Preparat per compartir contingut d'aplicacions per NFC
+No està disponible perquè la funció NFC està desactivada
+Wi-Fi
+Activa la Wi-Fi
+Utilitza la Wi‑Fi
+Configuració de Wi-Fi
+Configura i gestiona els punts d'accés sense fil
+Selecciona una xarxa Wi-Fi
+S'està activant la Wi-Fi
+S'està desactivant la Wi-Fi
+La banda de 5 GHz no està disponible en aquest país
+En mode d'avió
+Notificació de xarxa oberta
+Notifica'm quan hi hagi una xarxa pública d'alta qualitat
+Activa la Wi‑Fi automàticament
+La Wi-Fi es tornarà a activar automàticament prop de xarxes desades d'alta qualitat com la de casa teva
+No està disponible perquè la ubicació està desactivada. Activa la ubicació.
+No està disponible perquè la cerca de xarxes Wi-Fi està desactivada
+Per utilitzar aquesta funció selecciona un proveïdor de valoració de xarxes
+Només connexions estables
+No utilitzis una xarxa Wi-Fi tret que tingui una bona connexió a Internet
+Utilitza només les xarxes amb una bona connexió a Internet
+Connecta't a xarxes obertes
+Connecta't automàticament a xarxes públiques d'alta qualitat
+Per utilitzar aquesta funció selecciona un proveïdor de valoració de xarxes compatible
+Instal·la certificats
+Per millorar la precisió de la ubicació les aplicacions i els serveis poden cercar xarxes Wi-Fi en qualsevol moment fins i tot quan la Wi-Fi estigui desactivada. Aquesta opció es pot utilitzar per exemple per millorar les funcions i els serveis basats en la ubicació. Pots canviar aquesta opció a la LINKBEGINconfiguració de cercaLINKEND.
+Per millorar la precisió de la ubicació activa la cerca de xarxes Wi-Fi a la LINKBEGINconfiguració de cercaLINKEND.
+No m'ho tornis a mostrar
+Utilitza la Wi-Fi en repòs
+Wi‑Fi activa en repòs
+S'ha produït un problema en canviar la configuració
+Millora l'eficàcia
+Optimització de Wi-Fi
+Minimitza el consum de la bateria amb Wi-Fi activada
+Límit bateria usada per Wi-Fi
+Utilitza dades mòbils si la Wi-Fi perd l'accés a Internet.
+Canvia automàticament a dades mòbils
+Utilitza dades mòbils quan la Wi-Fi no tingui accés a Internet. És possible que s'hi apliquin càrrecs per ús de dades.
+Afegeix una xarxa
+Preferències de la Wi‑Fi
+La Wi‑Fi es torna a connectar automàticament
+La Wi‑Fi no es torna a connectar automàticament
+Xarxes Wi-Fi
+Més opcions
+Wi-Fi Direct
+Cerca
+Configura
+Connecta't a la xarxa
+Recorda la xarxa
+Oblida la xarxa
+Modifica la xarxa
+Per veure les xarxes disponibles activa la Wi-Fi.
+S'estan cercant xarxes Wi-Fi
+No tens permís per canviar la xarxa Wi‑Fi.
+Config. automàtica (WPS)
+Vols activar la cerca de xarxes Wi‑Fi?
+Perquè s'activi la Wi‑Fi automàticament primer has d'activar la cerca de xarxes Wi‑Fi.
+La cerca de xarxes Wi-Fi permet que les aplicacions i els serveis cerquin xarxes Wi-Fi en qualsevol moment fins i tot quan la Wi-Fi estigui desactivada. Aquesta opció es pot utilitzar per exemple per millorar les funcions i els serveis basats en la ubicació.
+S'ha activat la cerca de xarxes Wi‑Fi
+Opcions avançades
+Llista desplegable Opcions avançades. Fes doble toc per replegar-la.
+Llista desplegable Opcions avançades. Fes doble toc per desplegar-la.
+Nom de la xarxa
+Introdueix l'SSID
+Xarxa oculta
+Intensitat del senyal
+Estat
+Transmet la velocitat de l'enllaç
+Rep la velocitat de l'enllaç
+Freqüència
+Adreça IP
+Desada mitjançant
+Mètode EAP
+Autenticació de fase 2
+Certificat de CA
+Domini
+Certificat d'usuari
+Identitat
+Identitat anònima
+Mostra la contrasenya
+Selecciona la banda del punt d'accés
+Automàtica
+Banda de 24 GHz
+Banda de 50 GHz
+Preferència per la banda de 50 GHz
+50 GHz
+Tria almenys una banda per al punt d'accés Wi-Fi
+Configuració IP
+Adreça MAC aleatòria
+Afegeix un dispositiu
+Escaneja un codi QR
+Escaneja un codi QR per unir-te a la xarxa Wi‑Fi
+Comparteix la Wi‑Fi
+No s'ha pogut llegir el codi QR. Torna'l a centrar i prova-ho una altra vegada.Torna-ho a provar. Si el problema continua contacta amb el fabricant del dispositiu
+S'ha produït un error
+Comprova que el dispositiu tingui bateria i estigui connectat i encès
+Comprova que el dispositiu tingui bateria i estigui connectat i encès. Si el problema continua contacta amb el fabricant del dispositiu
+Comprova la connexió i torna-ho a provar
+Tria una xarxa
+Per connectar el dispositiu tria una xarxa
+S'ha compartit la connexió Wi‑Fi amb el dispositiu
+Afegeix un altre dispositiu
+Tria una xarxa diferent
+No s'ha pogut afegir el dispositiu
+Dispositiu detectat
+S'està compartint la Wi‑Fi amb aquest dispositiu
+Torna-ho a provar
+Comparteix amb altres usuaris del dispositiu
+(sense canvis)
+Selecciona
+(S'han afegit diversos certificats)
+Utilitza certificats del sistema
+No proporcionis un certificat d'usuari
+No validis el servidor d'EAP
+No s'ha especificat cap certificat. La connexió no serà privada.
+El nom de la xarxa és massa llarg.
+Has d'especificar un domini.
+WPS disponible
+(WPS disponible)
+Xarxa Wi-Fi de l'operador
+Per desactivar aquesta funció ves a Configuració avançada al menú addicional.
+Vols iniciar la sessió per connectar-te?
+CONNECTA
+Aquesta xarxa no té accés a Internet. Vols mantenir-hi la connexió?
+No ho tornis a preguntar en aquesta xarxa
+La Wi‑Fi no està connectada a Internet
+Pots canviar a la xarxa mòbil sempre que la connexió Wi‑Fi no sigui prou bona. És possible que s'hi apliquin càrrecs per ús de dades.
+Canvia a la xarxa mòbil
+Mantén la connexió a la Wi‑Fi
+No ho mostris mai més
+No s'ha pogut connectar a la xarxa
+No s'ha pogut oblidar la xarxa
+No s'ha pogut desar la xarxa
+Vols que s'oblidi la xarxa?
+Se suprimiran totes les contrasenyes d'aquesta xarxa
+Config. avançada de Wi-Fi
+Adreça MAC
+Detalls de la xarxa
+Màscara de la subxarxa
+DNS
+Adreces IPv6
+Xarxes desades
+La configuració avançada de la Wi‑Fi no està disponible per a aquest usuari
+Escriu una adreça IP vàlida.
+Escriu una adreça de passarel·la vàlida.
+Escriu una adreça DNS vàlida.
+Escriu una longitud de prefix de xarxa entre 0 i 32.
+DNS 1
+DNS 2
+Passarel·la
+Longitud de prefix de xarxa
+Informació del dispositiu
+Recorda aquesta connexió
+Cerca dispositius
+Canvia el nom del dispositiu
+Altres dispositius
+Grups recordats
+No s'ha pogut connectar.
+S'ha produït un error en canviar el nom del dispositiu.
+Vols desconnectar?
+Vols cancel·lar la invitació?
+Vols que s'oblidi aquest grup?
+Punt d'accés Wi-Fi
+No s'està compartint la connexió a Internet ni contingut amb altres dispositius
+S'està compartint la connexió a Internet de la tauleta mitjançant el punt d'accés Wi-Fi
+L'aplicació està compartint contingut. Per compartir la connexió a Internet desactiva el punt d'accés Wi-Fi i torna'l a activar.No s'ha definit cap contrasenya
+Nom del punt d'accés Wi-Fi
+Contrasenya del punt d'accés Wi-Fi
+Banda del punt d'accés
+Utilitza el punt d'accés Wi-Fi per crear una xarxa Wi-Fi per a altres dispositius. El punt d'accés Wi-Fi proporciona Internet mitjançant la teva connexió de dades mòbils. És possible que s'hi apliquin càrrecs addicionals per l'ús de dades mòbils.
+Les aplicacions poden crear un punt d'accés Wi-Fi per compartir contingut amb els dispositius que es trobin a prop.
+Desactiva el punt d'accés Wi-Fi automàticament
+El punt d'accés Wi-Fi es desactivarà si no hi ha cap dispositiu connectat
+S'està activant el punt d'accés Wi-Fi
+S'està desactivant el punt d'accés Wi-Fi
+Error de punt d'accés Wi-Fi
+Configura el punt d'accés Wi-Fi
+Configuració del punt d'accés Wi-Fi
+Punt d'accés Wi-Fi PSK AndroidAP WPA2
+AndroidHotspot
+Trucades per Wi-Fi
+Amplia les trucades amb una connexió Wi-Fi
+Activa Trucades per Wi-Fi per ampliar la cobertura
+Preferències de trucada
+Preferència en itinerància
+Dades mòbils
+Només Wi-Fi
+Adreça d'emergència
+S'utilitza com la teva ubicació si fas una trucada d'emergència per Wi-Fi
+Més informació sobre les funcions de DNS privat
+Opció gestionada per l'operador de telefonia mòbil
+Activa Trucades per Wi-Fi
+Activa Trucades per Wi-Fi
+Operador de telefonia mòbil
+Pantalla
+So
+Volum
+Efectes musicals
+Vibra quan estigui en silenci
+So de notificació predeterminat
+So de trucada
+Notificació
+Utilitza el volum de trucada entrant per a les notificacions
+No admet els perfils professionals.Defineix el volum de la música i els vídeos
+Alarma
+Configuració d'àudio de la base adjunta
+So en marcar el número
+Toca els sons
+So de bloqueig de pantalla
+Cancel·lació de sorolls
+Música vídeos jocs i altres fitxers multimèdia
+So de trucada i notificacions
+Alarmes
+Silencia els sons i les notificacions
+Silencia la música i altres fitxers multimèdia
+Silencia les notificacions
+Silencia les alarmes
+Base
+Configuració de la base
+Configuració de la base d'escriptori
+Configuració de la base del vehicle
+Tauleta no connectada
+Configuració de la base adjunta
+No s'ha trobat la base
+Per configurar l'àudio de la base has de connectar-hi la tauleta.
+So en inserir a la base
+Reprodueix so en inserir o retirar la tauleta de la base
+No reprodueixis so en inserir o en retirar la tauleta de la base
+Comptes del perfil personal
+Gira pantalla automàticament
+Colors
+Natural
+Millorat
+Saturat
+Automàtic
+Fes servir només colors precisos
+Ajusta entre colors vius i precisos
+Canvia l'orientació automàticament en girar la tauleta
+Nivell de brillantor
+Brillantor
+Ajusta la brillantor de la pantalla
+Brillantor automàtica
+La brillantor preferida és molt baixa
+La brillantor preferida és baixa
+La brillantor preferida és la predeterminada
+La brillantor preferida és alta
+La brillantor preferida és molt alta
+Molt baixa
+Alta
+Molt alta
+El teu nivell de brillantor preferit
+No l'ajustis segons la llum disponible
+Augment del consum de la bateria
+Optimitza la brillantor segons la llum. Quan aquesta funció està activada pots ajustar la brillantor temporalment.
+La brillantor de la pantalla s'ajustarà automàticament al teu entorn i a la teva activitat. Pots moure el control lliscant manualment perquè la brillantor automàtica aprengui les teves preferències.
+Mostra el balanç de blancs
+Repòs automàtic
+Activat
+La pantalla no s'atenuarà ni entrarà en repòs si el dispositiu detecta la teva atenció.Llum nocturna
+La funció Llum nocturna dona un to ambre a la pantalla. D'aquesta manera costa menys mirar-la o llegir-hi amb poca llum i és més fàcil adormir-se.
+Programació
+S'activa a una hora personalitzada
+S'activa del vespre a l'alba
+Hora d'inici
+Hora de finalització
+Intensitat
+No s'activarà mai automàticament
+S'activarà automàticament quan es pongui el sol
+No es desactivarà mai automàticament
+Es desactivarà automàticament quan surti el sol
+Activa ara
+Desactiva ara
+Activa fins a l'alba
+Desactiva fins al vespre
+Llum nocturna no està activada
+Repòs després de
+La pantalla s'apaga
+Canvia el fons de pantalla
+Personalitza la pantalla
+Selecciona fons de pantalla de
+Estalvi de pantalla
+Mentre es carrega o està connectat a la base
+Els dos casos
+Mentre es carrega
+Mentre està connectat a la base
+Per controlar què passa quan el telèfon està acoblat a una base o en mode de repòs activa l'estalvi de pantalla.
+Quan comença
+Estalvi de pantalla actual
+Comença ara mateix
+Brillantor automàtica
+Aixeca el dispositiu per activar-lo
+Pantalla ambient
+Quan es mostra
+Notificacions noves
+Activa la pantalla en rebre notificacions
+Sempre activada
+Mostra l'hora les icones de notificació i altres dades. Consumeix més bateria.
+Mida de la lletra
+Amplia o redueix el text
+Config. de bloqueig de SIM
+Bloqueig de la targeta SIM
+Bloquejada
+Bloqueja la targeta SIM
+Sol·licita el PIN per utilitzar la tauleta
+Canvia el PIN de la SIM
+PIN de la SIM
+Desbloqueja la targeta SIM
+PIN de la SIM antic
+Torna a escriure el PIN nou
+PIN incorrecte
+Els codis PIN no coincideixen
+PIN de la SIM canviat correctament
+No es pot desactivar el PIN.
+No es pot activar el PIN.
+Diverses SIM detectades
+Tria la SIM que prefereixis per a les dades mòbils.
+Vols canviar la SIM preferida?
+El codi PIN de la SIM no és correcte. Has de contactar amb l'operador de telefonia mòbil per desbloquejar el dispositiu.
+Hi ha hagut un problema en l'operació del PIN de la SIM.
+Versió d'Android
+Nivell de pedaç de seguretat d'Android
+Model
+Model i maquinari
+Versió del maquinari
+Id. de l'equip
+Versió de banda base
+Versió del kernel
+Número de compilació
+Versions del mòdul principal
+Estat de la bateria xarxa i altra informació
+Emmagatzematge
+Desactiva l'emmagatzematge USB mostra l'emmagatzematge disponible
+MDN
+MDN de la SIM
+MIN
+MSID
+Versió de PRL
+MEID
+ICCID
+Tipus de xarxa de dades mòbils
+Tipus de xarxa de veu mòbil
+Informació de l'operador
+Estat de la xarxa mòbil
+EID
+Estat del servei
+Xarxa
+Adreça MAC de Wi-Fi
+Adreça Bluetooth
+Número de sèrie
+Temps actiu
+Temps d'activació
+Emmagatzematge intern
+Disponible (només de lectura)
+Espai total
+S'està calculant
+Aplicacions i dades associades
+Imatges vídeos
+Àudio (música tons podcasts etc.)
+Altres fitxers
+Dades emmagatzemades a la memòria cau
+Desactiva emmagatzematge
+Desactiva emmagatzematge USB intern
+Insereix emmagatzematge USB per instal·lar-lo
+Activa l'emmagatzematge USB
+Esborra totes les dades de l'emmagatzematge USB intern com música i fotos.Esborrar dades emmagatz. a memòria cau?
+S'esborraran les dades a la memòria cau de les aplicacions.
+La funció MTP o PTP està activa
+Vols desactivar l'emmagatzematge USB?
+Si desactives l'emmagatzematge USB algunes aplicacions que estàs utilitzant s'aturaran i és possible que no estiguin disponibles fins que tornis a activar-lo.
+No s'ha pogut desactivar l'USB. Torna-ho a provar més tard.
+L'emmagatzematge USB es desinstal·larà.
+S'està desmuntant
+Desactivació en procés
+L'espai d'emmagatzematge s'està esgotant
+És possible que algunes funcions del sistema com ara la sincronització no funcionin bé. Prova d'alliberar espai suprimeix o desfixa elements com ara aplicacions o contingut multimèdia.
+Activa
+Formata com a portàtil
+Formata com a intern
+Migra les dades
+Configura
+Gestiona l'emmagatzematge
+Connexió USB a l'ordinador
+Connexió com a
+Dispositiu multimèdia (MTP)
+Et permet transferir fitxers multimèdia a Windows o utilitzant l'aplicació de transferència de fitxers d'Android a Mac (consulta www.android.com/filetransfer)
+Càmera (PTP)
+Et permet transferir fotos amb programari de la càmera i transferir qualsevol fitxer en els equips que no són compatibles amb MTP
+MIDI
+Permet que les aplicacions compatibles amb MIDI utilitzin programari de MIDI al teu ordinador per USB.
+Altres usuaris
+Emmagatzematge del dispositiu
+Emmagatzematge portàtil
+^1 ^2
+Canvia nom emmagatzematge
+Vols que s'oblidi ^1?
+Les aplicacions les fotos i les dades que s'hagin desat a ^1 es perdran per sempre.
+Aplicacions
+Explora ^1
+Configurar ^1
+Utilitza com a emmagatzematge portàtil
+Per desplaçar fotos i altres fitxers multimèdia entre dispositius.
+Utilitza com a emmagatzematge intern
+Per emmagatzemar dades només en aquest dispositiu com ara aplicacions i fotos. Cal formatar-lo perquè no es pugui fer servir en altres dispositius.
+Formatar com emmagatzem. intern
+Formata com a emmagatz. portàtil
+Esborra i formata
+S'està formatant ^1
+No extreguis el suport extern (^1) mentre s'estigui formatant.
+Desplaçar dades al nou emmagatz.Desplaça ara
+Desplaça més tard
+Migració de dades
+La migració trigarà ^1 aproximadament i alliberarà ^2 d'emmagatzematge (^3).
+S'estan desplaçant les dades
+Ja pots utilitzar el suport (^1)
+S'ha configurat ^1 per poder treballar-hi amb fotos i altres fitxers multimèdia.
+Desplaçar ^1
+Per moure dades has de desbloquejar l'usuari ^1.
+S'està desplaçant ^1
+Cancel·la el desplaçament
+Com utilitzaràs aquest suport (^1)?
+Emmag. addicional de la tauleta
+Per a apps fitxers i multimèdia només d'aquesta tauleta
+Emmagatzematge de la tauleta
+Utilitza com a emmag. portàtil
+Per transferir fitxers i contingut multimèdia entre dispositius
+Configura més tard
+Vols formatar aquest suport (^1)?
+Formata (^1)
+Vols transferir el contingut (^1)?
+Durant la transferència
+No extreguis el suport extern (^1)
+Algunes aplicacions no funcionaran
+Mantén aquesta tauleta carregada
+Transfereix el contingut
+Transfereix el contingut més tard
+S'està transferint el contingut
+Suport extern lent (^1)
+Pots transferir el contingut al suport extern (^1)
+Per transferir contingut al suport extern (^1) ves a Configuració i emmagatzematge
+Estat de la bateria
+Nivell de la bateria
+APN
+Edita el punt d'accés
+No definit
+APN
+Port
+Nom d'usuari
+Servidor
+MMSC
+Servidor intermediari MMS
+Port per a MMS
+MCC
+MNC
+Tipus d'autenticació
+Tipus d'APN
+Protocol APN
+Protocol d'itinerància d'APN
+Activa/desactiva APN
+APN activat
+APN desactivat
+Tipus de connexió
+Tipus de MVNO
+Valor de MVNO
+Suprimeix l'APN
+APN nou
+El camp Nom no pot ser buit.
+L'APN no pot estar buit.
+El camp MCC ha de tenir 3 dígits.
+El camp MNC ha de tenir 2 o 3 dígits.
+S'està restaurant la configuració predeterminada d'APN.
+Restableix valors predeterminats
+S'ha restablert la configuració predeterminada d'APN.
+Opcions de recuperació
+Es poden restablir la xarxa les aplicacions o el dispositiu
+Restableix Wi-Fi dades mòbils i Bluetooth
+Restableix la configuració
+Restablir?
+El restabliment de xarxa no està disponible per a aquest usuari
+S'ha restablert la configuració de la xarxa
+Esborra totes les dades (restabliment de les dades de fàbrica)
+Tens la sessió iniciada als comptes següents
+En aquest dispositiu hi ha altres usuaris.
+Targetes eSIM
+No es cancel·larà el teu pla de servei mòbil.
+Per esborrar també música imatges i altres dades d'usuari cal esborrar l'emmagatzematge USB.
+Esborra totes les dades de l'emmagatzematge USB intern com ara música o fotos
+Esborra totes les dades
+Esborra-ho tot
+No s'ha restablert perquè el servei d'esborrament del sistema no està disponible.
+Vols esborrar totes les dades?
+El restabliment de fàbrica no està disponible per a aquest usuari.S'està esborrant
+Configuració de trucades
+Configura la bústia la desviació de trucades les trucades en espera i l'identificador
+Compartició de xarxa per USB
+Punt d'accés Wi-Fi
+Compartició de xarxa per Bluetooth
+Compartició de xarxa
+Punt d'accés Wi-Fi i compartició de xarxa
+Punt d'accés Wi-Fi i compartició de xarxa activats
+Punt d'accés Wi-Fi activat
+No es pot compartir la xarxa ni utilitzar punts d'accés Wi-Fi mentre la funció Economitzador de dades està activada
+USB
+Comparteix la connexió a Internet del telèfon per USB
+Comparteix la connexió a Internet de la tauleta per Bluetooth
+Utilitza el punt d'accés Wi-Fi i la compartició de xarxa per proporcionar Internet a altres dispositius mitjançant la teva connexió de dades mòbils. Les aplicacions també poden crear un punt d'accés Wi-Fi per compartir contingut amb els dispositius que es trobin a prop.
+Xarxa mòbil
+Pla mòbil
+Aplicació d'SMS
+Vols canviar l'aplicació d'SMS?
+Proveïdor de valoració de xarxes
+Vols canviar l'assistent de Wi‑Fi?
+Operador de SIM desconegut
+Insereix la targeta SIM i reinicia
+Connecta a Internet
+La meva ubicació
+Ubicació perfil professional
+Permís d'aplicacions
+Quan la ubicació està desactivada
+Accés a la ubicació recent
+Cap aplicació no ha sol·licitat la ubicació recentment
+Consum de bateria elevat
+Poc consum de bateria
+Cerca per Wi‑Fi i Bluetooth
+Cerca de xarxes Wi‑Fi
+Permet que les aplicacions i els serveis cerquin xarxes Wi-Fi en qualsevol moment fins i tot quan la Wi-Fi estigui desactivada. Aquesta opció es pot utilitzar per exemple per millorar les funcions i els serveis basats en la ubicació.
+Cerca de dispositius Bluetooth
+Permet que les aplicacions i els serveis cerquin dispositius propers en qualsevol moment fins i tot quan el Bluetooth estigui desactivat. Aquesta opció es pot utilitzar per exemple per millorar les funcions i els serveis basats en la ubicació.
+Ubicació p. Wi-Fi i xarxa mòb.Permet que les aplicacions utilitzin el servei d'ubicació de Google per calcular la teva ubicació més ràpidament. Es recopilaran dades d'ubicació anònimes i s'enviaran a Google.
+Ubicació determinada per Wi-Fi
+Satèl·lits GPS
+Permet que les aplicacions utilitzin el GPS de la tauleta per determinar la teva ubicació exacta
+Utilitza GPS assistit
+Utilitza el servidor per ajudar al GPS (desmarqueu-ho per reduir l'ús de la xarxa)
+Utilitza el servidor per ajudar al GPS (desmarqueu-ho per millorar el rendiment del GPS)
+Ubicació i cerca de Google
+Permet a Google utilitzar la teva ubicació per millorar els resultats de cerca i altres serveis.Accés a la meva ubicació
+Permet que les aplicacions que hagin demanat permís utilitzin la informació sobre la ubicació
+Fonts d'ubicació
+Informació sobre la tauleta
+Mostra informació legal estat versió de programari
+Informació legal
+Col·laboradors
+Etiquetes normatives
+Manual de seguretat i normativa
+Copyright
+Llicència
+Termes i condicions
+Llicència de WebView del sistema
+S'ha produït un problema en carregar el manual.
+Llicències de tercers
+S'ha produït un problema en llegir les llicències.
+Informació de seguretat
+Defineix un bloqueig de pantalla
+Per motius de seguretat cal que defineixis una contrasenya
+Defineix una contrasenya
+Defineix un patró
+Per motius de seguretat cal que defineixis un PIN
+Per utilitzar l'empremta defineix un PIN
+Per motius de seguretat cal que defineixis un patró
+Torna a introduir la contrasenya
+Confirma el patró
+Torna a introduir el PIN
+Les contrasenyes no coincideixen
+Torna a dibuixar el patró
+Mètode de desbloqueig
+La contrasenya s'ha definit
+S'ha definit el PIN
+El patró s'ha definit
+Autenticació facial cal una contrasenya
+Autenticació facial cal un patró
+Autenticació facial cal un PIN
+Utilitza el patró del dispositiu per continuar
+Introdueix el PIN del dispositiu per continuar
+Introdueix la contrasenya del dispositiu per continuar
+Utilitza el patró de la feina per continuar
+Introdueix el PIN de la feina per continuar
+Introdueix la contrasenya de la feina per continuar
+Per a més seguretat utilitza el patró del dispositiu
+Per a més seguretat introdueix el PIN del dispositiu
+Per a més seguretat introdueix la contrasenya del dispositiu
+Per a més seguretat utilitza el patró de la feina
+Per a més seguretat introdueix el PIN de la feina
+Per a més seguretat introdueix la contrasenya de la feina
+S'ha restablert la configuració de fàbrica del dispositiu. Per utilitzar-lo dibuixa el patró antic.
+S'ha restablert la configuració de fàbrica del dispositiu. Per utilitzar-lo escriu el PIN antic.
+S'ha restablert la configuració de fàbrica del dispositiu. Per utilitzar-lo escriu la contrasenya antiga.
+Verifica el patró
+Verifica el PIN
+Verifica la contrasenya
+PIN incorrecte
+Contrasenya incorrecta
+Patró incorrecte
+Seguretat del dispositiu
+Dibuixa un patró de desbloqueig
+Premeu Menú per obtenir ajuda.
+Deixa anar el dit quan acabis
+Patró enregistrat
+Torna a dibuixar el patró per confirmar-lo
+El teu nou patró de desbloqueig
+Torna a dibuixar
+Patró de desbloqueig
+Requereix un patró
+Cal dibuixar el patró per desbloquejar la pantalla
+Mostra el patró
+Mostra el patró del perfil
+Vibra en tocar
+Bloqueja en engegar
+Defineix el patró de desbloqueig
+Com crear un patró de desbloqueig
+L'aplicació no està instal·lada al telèfon.
+Seguretat del perfil professional
+Bloqueig de pantalla del perfil professional
+Utilitza un sol bloqueig
+Utilitza un sol bloqueig per al perfil professional i per a la pantalla del dispositiu
+Vols utilitzar un sol bloqueig?
+El dispositiu utilitzarà el bloqueig de pantalla del teu perfil professional. S'aplicaran les polítiques professionals a tots dos bloquejos.
+El bloqueig del perfil professional no compleix els requisits de seguretat de la teva organització. Pots fer servir el mateix bloqueig per a la pantalla del dispositiu i per al perfil professional però s'aplicaran les polítiques de bloqueig professionals que hi pugui haver.
+El mateix bloqueig de pantalla que el del dispositiu
+Gestiona les aplicacions
+Gestiona i elimina les aplicacions instal·lades
+Informació de les aplicacions
+Gestiona les aplicacions i configura les dreceres d'inici ràpid
+Configuració de l'aplicació
+Fonts desconegudes
+Permet totes les fonts d'apl.Aplicacions obertes fa poc
+La tauleta i les dades personals són més vulnerables a atacs d'aplicacions desconegudes. En instal·lar aplicacions d'aquesta font acceptes que ets responsable de qualsevol dany a la tauleta i qualsevol pèrdua de dades que es pugui produir per l'ús d'aquestes aplicacions.
+Configuració avançada
+Activa més opcions de configuració
+Obrir de manera determinada
+Compatibilitat amb la pantalla
+Memòria cau
+Esborra la memòria cau
+Esborra l'accés
+Controls
+Força l'aturada
+Total
+Mida de l'aplicació
+En emmagatzematge USB
+Dades de l'usuari
+Dades de l'emmagatzematge USB
+Desinstal·la
+Desinstal·la per a tots els usuaris
+Desactiva
+Activa
+Esborra l'emmagatzematge
+Desinstal·la les actualitzacions
+Has triat executar aquesta aplicació de manera predeterminada per dur a terme algunes accions.
+Has seleccionat que vols permetre que aquesta aplicació creï widgets i que accedeixi a les seves dades.
+No s'ha definit cap valor predeterminat.
+Esborra valors predet.És possible que aquesta aplicació no hagi estat dissenyada per a la teva pantalla; pots controlar com s'ajusta a la pantalla aquí.
+Pregunta-ho en iniciar
+Escala l'aplicació
+Ordena per nom
+Ordena per mida
+Més recents
+Més freqüents
+Serveis en execució
+Processos a la memòria cau
+Aplicació en casos d'emergència
+Restableix les preferències d'aplicacions
+Restablir les preferències d'aplicacions?
+Restableix aplicacions
+Gestiona l'espai
+Filtra
+Selecció d'opcions de filtre
+Totes les aplicacions
+Aplicacions desactivades
+Baixades
+En execució
+No instal·lada per a l'usuari
+Instal·lada
+No hi ha cap aplicació.
+S'està tornant a calcular la mida
+Vols eliminar les dades de l'aplicació?
+S'eliminaran totes les dades d'aquesta aplicació permanentment. Això inclou tots els fitxers la configuració els comptes les bases de dades etc.
+No s'ha trobat l'aplicació a la llista d'aplicacions instal·lades.
+No s'ha pogut esborrar l'emmagatzematge de l'aplicació.
+S'està calculant
+No s'ha pogut calcular la mida del paquet.
+Mou a la tauleta
+Mou a emmagatzematge USB
+Ja hi ha una migració en curs.
+No hi ha prou espai d'emmagatzematge.
+L'aplicació no existeix.
+La ubicació de la instal·lació no és vàlida.
+No es poden instal·lar actualitzacions del sistema en suports externs.
+No es poden instal·lar aplicacions d'administració del dispositiu en suports externs
+Vols forçar l'aturada?
+Si forces l'aturada d'una aplicació és possible que no funcioni correctament.
+Ubicació d'instal·lació preferida
+Canvia la ubicació d'instal·lació preferida per a les aplicacions noves
+Desactiva l'aplicació
+Vols desactivar les notificacions?
+Botiga
+Informació de l'aplicació
+(No s'ha utilitzat mai)
+Sense aplic. predetermin.
+Ús d'emmagatzematge
+Mostra l'emmagatzematge que utilitzen les aplicacions
+S'està reiniciant
+Procés en segon pla en memòria cau
+No s'executa cap servei.
+Iniciat per l'aplicació.
+RAM
+S'ha eliminat l'usuari
+Memòria del dispositiu
+RAM utilitzada per aplicacions
+Lliure
+En ús
+A la memòria cau
+Aplicació en execució
+No actiu
+Serveis
+Processos
+Servei iniciat per l'aplicació. Si s'atura es pot produir un error en l'aplicació.
+Aquesta aplicació no es pot aturar amb seguretat. Si l'atures és possible que perdis una part del que estiguis fent.
+Es tracta del procés d'una aplicació antiga que encara s'està executant per si la tornes a necessitar. Normalment no cal aturar-lo.
+Procés principal que s'està fent servir.
+Vols aturar el servei del sistema?
+Si atures aquest servei hi ha funcions de la tauleta que és possible que deixin de funcionar correctament fins que no l'apaguis i la tornis a engegar.
+Idiomes introducció de text i gestos
+Idiomes i introducció de text
+No tens permisos per canviar l'idioma del dispositiu.
+Teclat i mètodes d'introducció
+Substitució automàtica
+Corregeix les paraules mal escrites
+Majúscules automàtiques
+Posa en majúscules la primera lletra d'una frase
+Puntuació automàtica
+Configuració del teclat físic
+Premeu la tecla d'espai dos cops per inserir "."
+Mostra les contrasenyes
+Mostra els caràcters breument mentre escrius
+Teclats
+Teclat virtual
+Teclat virtual disponible
+Gestiona els teclats
+Assistència per al teclat
+Teclat físic
+Mostra el teclat virtual
+Mantén-lo en pantalla mentre el teclat físic està actiu
+Ajuda per a les dreceres de teclat
+Mostra les dreceres de teclat disponibles
+Teclat virtual per a la feina
+Velocitat del punter
+Controlador de joc
+Redirigeix la vibració
+Envia la vibració al controlador de joc quan estigui connectat
+Tria una disposició de teclat
+Configura les disposicions de teclat
+Per canviar prem Ctrl + barra espaiadora
+Disposicions de teclat
+Diccionari personal
+Diccionari personal per a la feina
+Afegeix al diccionari
+Frase
+Menys opcions
+Paraula
+Drecera
+Escriu una paraula
+Drecera opcional
+Edició de la paraula
+No tens cap paraula al diccionari de l'usuari. Toca el botó Afegeix (+) per afegir-n'hi una.
+Per a tots els idiomes
+Més idiomes
+Proves
+Informació de la tauleta
+Introducció de text
+Mètode d'introducció de text
+Teclat actual
+Selector del mètode d'introducció
+Amaga sempre
+Configura els mètodes d'introducció
+Selecciona mètodes d'introducció actius
