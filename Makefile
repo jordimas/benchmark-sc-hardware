@@ -1,5 +1,5 @@
 docker-build:
-	docker build -t benchmark-sc-hardware . -f Dockerfile;
+	docker build --build-arg HF_TOKEN=${HF_TOKEN} -t benchmark-sc-hardware . -f Dockerfile;
 	docker image ls | grep benchmark-sc-hardware
 	
 docker-run:
